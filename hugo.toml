@@ -2,6 +2,8 @@ baseURL = 'https://seriefolkets-stora-pris.vercel.app'
 languageCode = 'sv-se'
 title = 'SERIEFOLKETS STORA PRIS'
 theme = 'blowfish'
+defaultContentLanguage = "sv"
+defaultContentLanguageInSubdir = false
 
 [menu]
 
@@ -24,3 +26,11 @@ theme = 'blowfish'
   name = "Vinnare 2024"
   url = "/vinnare2024/"
   weight = 5
+
+[languages]
+
+  [languages.sv]
+  languageName = "Svenska"
+  languageCode = "sv"
+  weight = 1
+  title = "SERIEFOLKETS STORA PRIS"
