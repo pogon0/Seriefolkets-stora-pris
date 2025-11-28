@@ -1,12 +1,12 @@
 baseURL = 'https://seriefolkets-stora-pris.vercel.app'
 languageCode = 'sv-se'
-title = 'Seriefolkets stora pris'
+title = 'SERIEFOLKETS STORA PRIS'
 theme = 'blowfish'
 
 [menu]
 
   [[menu.main]]
-  name = "Seriefolkets stora pris"
+  name = "Om priset"
   url = "/about/"
   weight = 2
 
@@ -16,7 +16,7 @@ theme = 'blowfish'
   weight = 3
 
   [[menu.main]]
-  name = "Omröstningarna"
+  name = "Omröstningar 2025"
   url = "/lankar/"
   weight = 4
 
