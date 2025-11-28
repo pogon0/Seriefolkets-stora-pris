@@ -1,4 +1,26 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = 'https://seriefolkets-stora-pris.vercel.app'
+languageCode = 'sv-se'
+title = 'Seriefolkets stora pris'
 theme = 'blowfish'
+
+[menu]
+
+  [[menu.main]]
+  name = "Seriefolkets stora pris"
+  url = "/about/"
+  weight = 2
+
+  [[menu.main]]
+  name = "Kategorier"
+  url = "/kategorier/"
+  weight = 3
+
+  [[menu.main]]
+  name = "Omröstningarna"
+  url = "/lankar/"
+  weight = 4
+
+   [[menu.main]]
+  name = "Vinnare 2024"
+  url = "/vinnare2024/"
+  weight = 5
