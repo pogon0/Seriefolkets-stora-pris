@@ -4,7 +4,7 @@ date: 2025-11-28
 draft: false
 ---
 
-## Här är katergorierna i Seriefolkets stora pris 2025
+## Här är kategorierna i Seriefolkets stora pris 2025
 
 ### Årets svenska seriebok
 
@@ -16,7 +16,7 @@ I Sverige utgivna böcker som översatts från ett annat språk. Om boken passar
 
 ### Årets klassikerutgivning
 
-Klassikerutgivnig är gamla serier i nya böcker. Det kan var nyutgåvor av böcker eller samlingar av äldre serier som tidigare publicerats i andra format. Svenska utgåvor. Pris till förlaget.
+Klassikerutgivning är gamla serier i nya böcker. Det kan var nyutgåvor av böcker eller samlingar av äldre serier som tidigare publicerats i andra format. Svenska utgåvor. Pris till förlaget.
 
 ### Årets utländska seriebok
 
@@ -52,7 +52,7 @@ Bäste svenska bok, podd, blogg, stream, kanal, konto, app, tidning, spel, spelf
 
 ### Årets person
 
-En person som utmärkt sig under året eller bprde prisas för sin samlade gärning. Kan vara en serieskapare, läsare, textare, redaktör, formgivare, journalist eller recensent, alltså precis vilken seriemänniska som helst. Pris till personen.
+En person som utmärkt sig under året eller borde prisas för sin samlade gärning. Kan vara en serieskapare, läsare, textare, redaktör, formgivare, journalist eller recensent, alltså precis vilken seriemänniska som helst. Pris till personen.
 
 ### Årets händelse
 

@@ -7,4 +7,4 @@ draft: false
 ## Om Seriefolkets stora pris
 
 **Seriefolkets stora pris** instiftades 2024. Medlemmarna i Facebook-gruppen Forum för seriefolk nominerar och röstar fram årets serievinnare i ett antal kategorier.  
-Priset är äran, folkets kärlek och ett diplom.
+Priset består av äran, folkets kärlek och ett diplom.
