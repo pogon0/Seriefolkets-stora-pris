@@ -48,3 +48,6 @@ defaultContentLanguageInSubdir = false
   languageCode = "sv"
   weight = 1
   title = "SERIEFOLKETS STORA PRIS"
+
+[params]
+  colorscheme = "cyan"
