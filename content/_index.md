@@ -3,4 +3,4 @@ title: ""
 description: ""
 ---
 
-![Forum för seriefolk](/logo.svg)
+![Animerad logotyp](/video/Animerad_logotyp_Forum_for_seriefolk.gif)

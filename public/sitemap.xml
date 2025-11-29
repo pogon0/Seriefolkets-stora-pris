@@ -4,7 +4,11 @@
 
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-11-28T00:00:00+00:00</lastmod>
+    <lastmod>2026-01-13T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/vinnare/</loc>
+    <lastmod>2026-01-13T00:00:00+00:00</lastmod>
   </url>
   <url>
     <loc>http://localhost:1313/kategorier/</loc>
@@ -19,15 +23,7 @@
     <lastmod>2025-11-28T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/vinnare/</loc>
-    <lastmod>2025-11-28T00:00:00+00:00</lastmod>
-  </url>
-  <url>
     <loc>http://localhost:1313/vinnare/vinnare2024/</loc>
-    <lastmod>2025-11-28T00:00:00+00:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/vinnare/vinnare2025/</loc>
-    <lastmod>2025-11-28T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-13T00:00:00+00:00</lastmod>
   </url>
 </urlset>
