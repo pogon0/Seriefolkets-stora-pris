@@ -26,21 +26,19 @@ defaultContentLanguageInSubdir = false
 name = "Vinnare"
 url = ""          # Ingen indexsida
 weight = 4
+identifier = "vinnare"
 
 [[menu.main]]
 name = "Vinnare 2024"
 url = "/vinnare/vinnare2024/"
 weight = 1
-parent = "Vinnare"
+parent = "vinnare"
 
 [[menu.main]]
 name = "Vinnare 2025"
 url = "/vinnare/vinnare2025/"
 weight = 2
-parent = "Vinnare"
-
-
-
+parent = "vinnare"
 
 [languages]
 
