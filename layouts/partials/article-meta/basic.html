@@ -29,9 +29,12 @@
     {{ $meta.Add "partials" (slice (partial "meta/date.html" .Date)) }}
   {{ end }}
 
-  {{ if and (.Params.showDateUpdated | default (.Site.Params.article.showDateUpdated | default false)) (ne (partial
-    "functions/date.html" .Date) (partial "functions/date.html" .Lastmod)) (gt (.Lastmod | time.Format "2006") 1)
-  }}
+  {{/* Fixed showDateUpdated block */}}
+  {{ $showUpdated := .Params.showDateUpdated | default (.Site.Params.article.showDateUpdated | default false) }}
+  {{ $dateChanged := ne (partial "functions/date.html" .Date) (partial "functions/date.html" .Lastmod) }}
+  {{ $lastmodValid := gt (.Lastmod | time.Format "2006") 1 }}
+
+  {{ if and $showUpdated (and $dateChanged $lastmodValid) }}
     {{ $meta.Add "partials" (slice (partial "meta/date-updated.html" .Lastmod)) }}
   {{ end }}
 
