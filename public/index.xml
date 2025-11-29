@@ -61,7 +61,7 @@
     decoding=&#34;async&#34;
     fetchpriority=&#34;low&#34;
     alt=&#34;Forum för seriefolk&#34;
-    src=&#34;http://localhost:1313/logo.svg&#34;
+    src=&#34;http://localhost:1313/logo.svg?v=2&#34;
     &gt;&lt;/figure&gt;
 &lt;/p&gt;
 

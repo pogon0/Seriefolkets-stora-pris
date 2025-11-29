@@ -4,7 +4,7 @@ date: 2025-11-28
 draft: false
 ---
 
-![Forum för seriefolk](/logo.svg)
+![Forum för seriefolk](/logo.svg?v=2)
 
 ## Om Seriefolkets stora pris
 

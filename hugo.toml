@@ -22,22 +22,23 @@ defaultContentLanguageInSubdir = false
   url = "/lankar/"
   weight = 3
 
-  [[menu.main]]
-  name = "Vinnare"
-  url = "/vinnare/"
-  weight = 4
+[[menu.main]]
+name = "Vinnare"
+url = ""          # Ingen indexsida
+weight = 4
 
-    [[menu.main]]
-    name = "Vinnare 2024"
-    url = "/vinnare/vinnare2024/"
-    weight = 1
-    parent = "Vinnare"
+[[menu.main]]
+name = "Vinnare 2024"
+url = "/vinnare/vinnare2024/"
+weight = 1
+parent = "Vinnare"
 
-    [[menu.main]]
-    name = "Vinnare 2025"
-    url = "/vinnare/vinnare2025/"
-    weight = 2
-    parent = "Vinnare"
+[[menu.main]]
+name = "Vinnare 2025"
+url = "/vinnare/vinnare2025/"
+weight = 2
+parent = "Vinnare"
+
 
 
 
