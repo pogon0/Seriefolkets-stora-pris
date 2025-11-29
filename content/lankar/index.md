@@ -6,36 +6,36 @@ draft: false
 
 ## Här kommer länkar till alla omröstningar på Facebook att finnas när omröstningarna startar i början av 2026
 
-- Årets svenska seriebok
+- [Årets svenska seriebok](https://www.facebook.com/share/)
 
-- Årets översatta seriebok
+- [Årets översatta seriebok](https://www.facebook.com/share/)
 
-- Årets klassikerutgivning
+- [Årets klassikerutgivning](https://www.facebook.com/share/)
 
-- Årets utländska seriebok
+- [Årets utländska seriebok](https://www.facebook.com/share/)
 
-- Årets svenska serietidning
+- [Årets svenska serietidning](https://www.facebook.com/share/)
 
-- Årets utländska serietidning
+- [Årets utländska serietidning](https://www.facebook.com/share/)
 
-- Årets fanzin
+- [Årets fanzin](https://www.facebook.com/share/)
 
-- Årets egenutgivna seriebok
+- [Årets egenutgivna seriebok](https://www.facebook.com/share/)
 
-- Årets webbserie
+- [Årets webbserie](https://www.facebook.com/share/)
 
-- Årets barnserie
+- [Årets barnserie](https://www.facebook.com/share/)
 
-- Årets publikation om tecknade serier
+- [Årets publikation om tecknade serier](https://www.facebook.com/share/)
 
-- Årets person
+- [Årets person](https://www.facebook.com/share/)
 
-- Årets händelse
+- [Årets händelse](https://www.facebook.com/share/)
 
-- Årets förlag
+- [Årets förlag](https://www.facebook.com/share/)
 
-- Årets antologi
+- [Årets antologi](https://www.facebook.com/share/)
 
-- Årets handlare
+- [Årets handlare](https://www.facebook.com/share/)
 
-- Årets serie i tidning
+- [Årets serie i tidning](https://www.facebook.com/share/)
