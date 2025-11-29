@@ -1,0 +1,8 @@
+@font-face {
+  font-family: "CCYadaYadaYada";
+  src: url("/fonts/CCYadaYadaYada-Regular.woff2") format("woff2");
+}
+
+html {
+  font-family: "CCYadaYadaYada", sans-serif;
+}

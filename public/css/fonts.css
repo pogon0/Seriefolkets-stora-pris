@@ -1,0 +1,48 @@
+/* Regular */
+@font-face {
+  font-family: "CCYadaYadaYada";
+  src: url("/fonts/CCYadaYadaYada-Regular.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Italic */
+@font-face {
+  font-family: "CCYadaYadaYada";
+  src: url("/fonts/CCYadaYadaYada-Italic.woff2") format("woff2");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* Bold */
+@font-face {
+  font-family: "CCYadaYadaYada";
+  src: url("/fonts/CCYadaYadaYada-Bold.woff2") format("woff2");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* BoldItalic */
+@font-face {
+  font-family: "CCYadaYadaYada";
+  src: url("/fonts/CCYadaYadaYada-BoldItalic.woff2") format("woff2");
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* Använd fonten globalt */
+html,
+body {
+  font-family: "CCYadaYadaYada", sans-serif;
+}
+
+/* Tvinga fonten globalt */
+html,
+body,
+* {
+  font-family: "CCYadaYadaYada", sans-serif !important;
+}
