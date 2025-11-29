@@ -10,22 +10,36 @@ defaultContentLanguageInSubdir = false
   [[menu.main]]
   name = "Om priset"
   url = "/about/"
-  weight = 2
+  weight = 1
 
   [[menu.main]]
   name = "Kategorier"
   url = "/kategorier/"
-  weight = 3
+  weight = 2
 
   [[menu.main]]
   name = "Omröstningar 2025"
   url = "/lankar/"
+  weight = 3
+
+  [[menu.main]]
+  name = "Vinnare"
+  url = "/vinnare/"
   weight = 4
 
-   [[menu.main]]
-  name = "Vinnare 2024"
-  url = "/vinnare2024/"
-  weight = 5
+    [[menu.main]]
+    name = "Vinnare 2024"
+    url = "/vinnare/vinnare2024/"
+    weight = 1
+    parent = "Vinnare"
+
+    [[menu.main]]
+    name = "Vinnare 2025"
+    url = "/vinnare/vinnare2025/"
+    weight = 2
+    parent = "Vinnare"
+
+
 
 [languages]
 

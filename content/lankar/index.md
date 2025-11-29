@@ -18,9 +18,9 @@ draft: false
 
 - Årets utländska serietidning
 
-- Årets fanzin (Uppdelad kategori)
+- Årets fanzin
 
-- Årets egenutgivna seriebok (Uppdelad kategori)
+- Årets egenutgivna seriebok
 
 - Årets webbserie
 
@@ -32,10 +32,10 @@ draft: false
 
 - Årets händelse
 
-- Årets förlag (Ny kategori)
+- Årets förlag
 
-- Årets antologi (Ny kategori)
+- Årets antologi
 
-- Årets handlare (Ny kategori)
+- Årets handlare
 
-- Årets serie i tidning (Ny kategori)
+- Årets serie i tidning

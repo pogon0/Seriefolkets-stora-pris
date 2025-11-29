@@ -4,6 +4,8 @@ date: 2025-11-28
 draft: false
 ---
 
+![Forum för seriefolk](/logo.svg)
+
 ## Om Seriefolkets stora pris
 
 **Seriefolkets stora pris** instiftades 2024. Medlemmarna i Facebook-gruppen [Forum för seriefolk](https://www.facebook.com/groups/seriefolk "Forum för seriefolk på Facebook") nominerar och röstar fram årets serievinnare i ett antal kategorier.  
