@@ -13,24 +13,42 @@ defaultContentLanguageInSubdir = false
   weight = 1
 
   [[menu.main]]
-  name = "Kategorier"
-  url = "/kategorier/"
+  name = "faq"
+  url = "/faq/"
   weight = 2
 
   [[menu.main]]
-  name = "Nomineringar"
-  url = "/Nomineringar/"
-  weight = 2
+  name = "Kategorier"
+  url = "/kategorier/"
+  weight = 3
+
+[[menu.main]]
+name = "Nomineringar"
+url = ""          # Ingen indexsida
+weight = 4
+identifier = "Nomineringar"
+
+[[menu.main]]
+name = "Nomineringar 2024"
+url = "/nomineringar/nomineringar2024/"
+weight = 1
+parent = "Nomineringar"
+
+[[menu.main]]
+name = "Nomineringar 2025"
+url = "/nomineringar/nomineringar2025/"
+weight = 2
+parent = "Nomineringar"
 
   [[menu.main]]
   name = "Omröstningar"
   url = "/lankar/"
-  weight = 4
+  weight = 5
 
 [[menu.main]]
 name = "Vinnare"
 url = ""          # Ingen indexsida
-weight = 5
+weight = 6
 identifier = "vinnare"
 
 [[menu.main]]

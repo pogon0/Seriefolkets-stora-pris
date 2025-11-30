@@ -1,5 +1,5 @@
 ---
-title: "Nomineringar"
+title: "Nomineringar 2025"
 date: 2025-11-30
 draft: false
 ---
@@ -54,6 +54,7 @@ Alla kommer själva kunna lägga till nomineringar när omröstningarna drar ig�
 - _Herman Hedning._
 - _Kalle Anka klassiker._
 - _Portal._
+- _MAL._
 
 ### Årets utländska serietidning
 
@@ -70,6 +71,8 @@ Alla kommer själva kunna lägga till nomineringar när omröstningarna drar ig�
 - _Sluta ringa mig, jag är på jobbet_ av Johannes Aggro Torstensson.
 - _Hammarberg och Torstensson väljer glädjen_ av Mikael Hammarberg och Johannes Aggro Torstensson.
 - _Indiana OIX & Kattis the Kid_ av Kattis Mörk.
+- _Hej!_ av Martin Kellerman.
+- _Vi har gjort ett zine om köpcentret Entré,_ redaktör Siri Nuottaniemi.
 
 ### Årets egenutgivna seriebok
 
@@ -82,6 +85,7 @@ Alla kommer själva kunna lägga till nomineringar när omröstningarna drar ig�
 - _Stackars Jimmy!_ av Jimmy Wallin.
 - _Greb Comics_ av Greb.
 - _Rit Lucassi_ av Elin Lucassi.
+- _The Onion Report._
 
 ### Årets barnserie
 
@@ -114,6 +118,7 @@ Alla kommer själva kunna lägga till nomineringar när omröstningarna drar ig�
 - **Johan Wanloo.**
 - **Fabian Göranson.**
 - **Ellinor Broman.**
+- **Johan Andreasson.**
 
 ### Årets händelse
 
@@ -122,6 +127,7 @@ Alla kommer själva kunna lägga till nomineringar när omröstningarna drar ig�
 - **SIS.**
 - **Ystad Seriefestival.**
 - **Uppsala comix.**
+- **Fabian Göranson belönas med Augustpriset.**
 
 ### Årets förlag
 
@@ -133,6 +139,7 @@ Alla kommer själva kunna lägga till nomineringar när omröstningarna drar ig�
 - **Ades.**
 - **Cobolt.**
 - **Kartago.**
+- **Kaunitz-Olsson.**
 
 ### Årets antologi
 
