@@ -6,3 +6,10 @@
 html {
   font-family: font;
 }
+
+.prose {
+  max-width: 80%;
+}
+.max-w-prose {
+  max-width: 80%;
+}
