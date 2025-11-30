@@ -13,3 +13,10 @@ html {
 .max-w-prose {
   max-width: 80%;
 }
+
+main img {
+  display: block;
+  margin: 1em auto;
+  max-width: 100%;
+  height: auto;
+}

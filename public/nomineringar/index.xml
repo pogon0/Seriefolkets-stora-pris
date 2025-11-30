@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nomineringars on SERIEFOLKETS STORA PRIS</title>
-    <link>http://localhost:60314/nomineringar/</link>
+    <link>http://localhost:1313/nomineringar/</link>
     <description>Recent content in Nomineringars on SERIEFOLKETS STORA PRIS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>sv</language>
     <copyright>© 2025 </copyright>
-    <lastBuildDate>Sun, 30 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:60314/nomineringar/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 30 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/nomineringar/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Nomineringar 2025</title>
-      <link>http://localhost:60314/nomineringar/nomineringar2025/</link>
+      <link>http://localhost:1313/nomineringar/nomineringar2025/</link>
       <pubDate>Sun, 30 Nov 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:60314/nomineringar/nomineringar2025/</guid>
+      <guid>http://localhost:1313/nomineringar/nomineringar2025/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;Nomineringar till Seriefolkets stora pris 2025
     &lt;div id=&#34;nomineringar-till-seriefolkets-stora-pris-2025&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -40,6 +40,7 @@
 &lt;li&gt;&lt;em&gt;Vad ska jag packa?&lt;/em&gt; av Tova Brodin.&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Rökspira&lt;/em&gt; av Eddie Karlsson.&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Ett år av apokalyptiskt tänkande&lt;/em&gt; av Linda Spåman.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Tre män funna mördade i Klippan&lt;/em&gt; av Max Hebert och Steve Nyberg.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 class=&#34;relative group&#34;&gt;Årets översatta seriebok
@@ -235,6 +236,7 @@
 &lt;li&gt;&lt;em&gt;Seriekatalogen.se.&lt;/em&gt;&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Rogers Seriemagasin.&lt;/em&gt;&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Bild &amp;amp; Bubbla.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Podden &lt;em&gt;Arkiv samtal&lt;/em&gt; av Simon Gärdenfors.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 class=&#34;relative group&#34;&gt;Årets person
@@ -332,10 +334,10 @@
     
     <item>
       <title>Nominerade 2024</title>
-      <link>http://localhost:60314/nomineringar/nomineringar2024/</link>
+      <link>http://localhost:1313/nomineringar/nomineringar2024/</link>
       <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:60314/nomineringar/nomineringar2024/</guid>
+      <guid>http://localhost:1313/nomineringar/nomineringar2024/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;Här är alla nominerade 2024
     &lt;div id=&#34;här-är-alla-nominerade-2024&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     

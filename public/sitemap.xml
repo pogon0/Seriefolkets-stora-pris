@@ -3,47 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:60314/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2025-11-30T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:60314/nomineringar/nomineringar2025/</loc>
+    <loc>http://localhost:1313/nomineringar/nomineringar2025/</loc>
     <lastmod>2025-11-30T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:60314/nomineringar/</loc>
+    <loc>http://localhost:1313/nomineringar/</loc>
     <lastmod>2025-11-30T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:60314/vinnare/vinnare2025/</loc>
+    <loc>http://localhost:1313/vinnare/vinnare2025/</loc>
     <lastmod>2025-11-29T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:60314/vinnare/</loc>
+    <loc>http://localhost:1313/vinnare/</loc>
     <lastmod>2025-11-29T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:60314/faq/</loc>
+    <loc>http://localhost:1313/faq/</loc>
     <lastmod>2025-11-28T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:60314/kategorier/</loc>
+    <loc>http://localhost:1313/kategorier/</loc>
     <lastmod>2025-11-28T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:60314/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
     <lastmod>2025-11-28T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:60314/lankar/</loc>
+    <loc>http://localhost:1313/lankar/</loc>
     <lastmod>2025-11-28T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:60314/nomineringar/nomineringar2024/</loc>
+    <loc>http://localhost:1313/nomineringar/nomineringar2024/</loc>
     <lastmod>2025-01-13T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:60314/vinnare/vinnare2024/</loc>
+    <loc>http://localhost:1313/vinnare/vinnare2024/</loc>
     <lastmod>2025-01-13T00:00:00+00:00</lastmod>
   </url>
 </urlset>
