@@ -2,19 +2,333 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SERIEFOLKETS STORA PRIS</title>
-    <link>http://localhost:55916/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on SERIEFOLKETS STORA PRIS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>sv</language>
     <copyright>© 2025 </copyright>
-    <lastBuildDate>Sat, 29 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:55916/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 30 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Nomineringar</title>
+      <link>http://localhost:1313/nomineringar/</link>
+      <pubDate>Sun, 30 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/nomineringar/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;Nomineringar till Seriefolkets stora pris 2025
+    &lt;div id=&#34;nomineringar-till-seriefolkets-stora-pris-2025&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#nomineringar-till-seriefolkets-stora-pris-2025&#34; aria-label=&#34;Ankare&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;
+    
+&lt;/h2&gt;
+&lt;p&gt;Alla kommer själva kunna lägga till nomineringar när omröstningarna drar igång, men här är lite ihopsamlade grundnomineringar så vi undviker dubbel-nomineringar, har något att utgå ifrån och har ett ställe att dokumentera nomineringarna på.&lt;/p&gt;
+
+&lt;h3 class=&#34;relative group&#34;&gt;Årets svenska seriebok
+    &lt;div id=&#34;årets-svenska-seriebok&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#%c3%a5rets-svenska-seriebok&#34; aria-label=&#34;Ankare&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;
+    
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Vit Volvo&lt;/em&gt; av Erik Svetoft.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Vad ska jag packa?&lt;/em&gt; av Tova Brodin.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Rökspira&lt;/em&gt; av Eddie Karlsson.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Ett år av apokalyptiskt tänkande&lt;/em&gt; av Linda Spåman.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 class=&#34;relative group&#34;&gt;Årets översatta seriebok
+    &lt;div id=&#34;årets-översatta-seriebok&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#%c3%a5rets-%c3%b6versatta-seriebok&#34; aria-label=&#34;Ankare&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;
+    
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Dansa hela natten på undergångens brant&lt;/em&gt; av Sebas Martín, Palabra.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Vägen – en serieroman&lt;/em&gt; av Cormac McCarthy och Manu Larcenet, Cobolt.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Djinn-Djinn del 1: Sjabbars Trolldom&lt;/em&gt; av Ralf König, Epix.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Mycelium Wassonii&lt;/em&gt; av Brian Blomerth, Lystring.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Palatset&lt;/em&gt; av Sammy Stein, Lystring.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 class=&#34;relative group&#34;&gt;Årets klassikerutgivning
+    &lt;div id=&#34;årets-klassikerutgivning&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#%c3%a5rets-klassikerutgivning&#34; aria-label=&#34;Ankare&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;
+    
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Allan Kämpe,&lt;/em&gt; Ades.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Ensamma mamman,&lt;/em&gt; Galago.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Blake och Mortimer klassiska äventyr 1, Svärdfiskens hemlighet,&lt;/em&gt; Cobolt.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Rodolphe Töpffer komiska bildromaner,&lt;/em&gt; Epix.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Nausicaä från Vindarnas dal 1,&lt;/em&gt; Cobolt.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Prins Charles känsla,&lt;/em&gt; Norstedts.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Hey Princess,&lt;/em&gt; Galago.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;X-Men: Ur askan…,&lt;/em&gt; Ades.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 class=&#34;relative group&#34;&gt;Årets utländska seriebok
+    &lt;div id=&#34;årets-utländska-seriebok&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#%c3%a5rets-utl%c3%a4ndska-seriebok&#34; aria-label=&#34;Ankare&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;
+    
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;The Ephemerata&lt;/em&gt; av Carol Tyler.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Tongues 1&lt;/em&gt; av Anders Nilsen.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Spent&lt;/em&gt; av Alison Bechdel.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;The Legend of Kamui 1 &amp;amp; 2&lt;/em&gt; av Sanpei Shirato.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Misery of Love&lt;/em&gt; av Yvan Alagbé.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Physics for Cats&lt;/em&gt; av Tom Gauld.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;The Solitary Gourmet&lt;/em&gt; av Jiro Taniguchi &amp;amp; Masayuki Kusumi.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;The Once and Future Riot&lt;/em&gt; av Joe Sacco.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Rowlf and Other Fantasy Stories&lt;/em&gt; av Richard Corben.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Muybridge&lt;/em&gt; av Guy Delisle.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 class=&#34;relative group&#34;&gt;Årets svenska serietidning
+    &lt;div id=&#34;årets-svenska-serietidning&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#%c3%a5rets-svenska-serietidning&#34; aria-label=&#34;Ankare&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;
+    
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Marvels Universum.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Galago.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Herman Hedning.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Kalle Anka klassiker.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Portal.&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 class=&#34;relative group&#34;&gt;Årets utländska serietidning
+    &lt;div id=&#34;årets-utländska-serietidning&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#%c3%a5rets-utl%c3%a4ndska-serietidning&#34; aria-label=&#34;Ankare&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;
+    
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Absolute Batman,&lt;/em&gt; DC.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Ultimate Wolverine,&lt;/em&gt; Marvel.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Amazing Spider-Man,&lt;/em&gt; Marvel.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Absolute Martian Manhunter,&lt;/em&gt; DC.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Hello Darkness 11,&lt;/em&gt; Boom.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 class=&#34;relative group&#34;&gt;Årets fanzine
+    &lt;div id=&#34;årets-fanzine&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#%c3%a5rets-fanzine&#34; aria-label=&#34;Ankare&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;
+    
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Min minjär&lt;/em&gt; av Cajsa Nordlund.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;På kickoff med döden&lt;/em&gt; av Elias Olsson.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Sluta ringa mig, jag är på jobbet&lt;/em&gt; av Johannes Aggro Torstensson.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Hammarberg och Torstensson väljer glädjen&lt;/em&gt; av Mikael Hammarberg och Johannes Aggro Torstensson.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Indiana OIX &amp;amp; Kattis the Kid&lt;/em&gt; av Kattis Mörk.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 class=&#34;relative group&#34;&gt;Årets egenutgivna seriebok
+    &lt;div id=&#34;årets-egenutgivna-seriebok&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#%c3%a5rets-egenutgivna-seriebok&#34; aria-label=&#34;Ankare&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;
+    
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Herrskap och hemligheter&lt;/em&gt; av Christina Jonsson.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Feltänkt 6 Alla mina kretsar&lt;/em&gt; av Yvette Gustafsson.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 class=&#34;relative group&#34;&gt;Årets webbserie
+    &lt;div id=&#34;årets-webbserie&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#%c3%a5rets-webbserie&#34; aria-label=&#34;Ankare&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;
+    
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Gökboet&lt;/em&gt; av Hanna Strömberg.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Stackars Jimmy!&lt;/em&gt; av Jimmy Wallin.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Greb Comics&lt;/em&gt; av Greb.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Rit Lucassi&lt;/em&gt; av Elin Lucassi.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 class=&#34;relative group&#34;&gt;Årets barnserie
+    &lt;div id=&#34;årets-barnserie&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#%c3%a5rets-barnserie&#34; aria-label=&#34;Ankare&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;
+    
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Klara: Tvättbjörnarnas stad&lt;/em&gt; av Fabian Göranson.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Hilo räddar absolut hela världen&lt;/em&gt; av Judd Winick.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Yumi &amp;amp; Tomu seriebok - Maskeradens mästare&lt;/em&gt; av Maria Frensborg, Yumi &amp;amp; Tomu och Gustav Lord.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Mamma Mu och Kråkan på höskullen&lt;/em&gt; av Jujja Wieslander, Sven Nordqvist, Micaela Favilla och Elin Fahlstedt.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Nidur. Bok 2&lt;/em&gt; av Linn Olsson.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 class=&#34;relative group&#34;&gt;Årets serie i tidning
+    &lt;div id=&#34;årets-serie-i-tidning&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#%c3%a5rets-serie-i-tidning&#34; aria-label=&#34;Ankare&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;
+    
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Häftigt drag&lt;/em&gt; av Johan Wanloo.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Lilla Berlin&lt;/em&gt; av Ellen Ekman.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Gökboet&lt;/em&gt; av Hanna Strömberg.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Rit Lucassi&lt;/em&gt; av Elin Lucassi.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Berglins&lt;/em&gt; av Maria och Jan Berglin.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 class=&#34;relative group&#34;&gt;Årets publikation om tecknade serier
+    &lt;div id=&#34;årets-publikation-om-tecknade-serier&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#%c3%a5rets-publikation-om-tecknade-serier&#34; aria-label=&#34;Ankare&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;
+    
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Spelfilmen &lt;em&gt;Serietecknaren&lt;/em&gt; av Simon Gärdenfors.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Det grymma svärdet 44.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Seriekatalogen.se.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Rogers Seriemagasin.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Bild &amp;amp; Bubbla.&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 class=&#34;relative group&#34;&gt;Årets person
+    &lt;div id=&#34;årets-person&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#%c3%a5rets-person&#34; aria-label=&#34;Ankare&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;
+    
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Lisa Medin.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mats Jonsson.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Johan Wanloo.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Fabian Göranson.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ellinor Broman.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 class=&#34;relative group&#34;&gt;Årets händelse
+    &lt;div id=&#34;årets-händelse&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#%c3%a5rets-h%c3%a4ndelse&#34; aria-label=&#34;Ankare&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;
+    
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Marvels Universum.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Johan Vilde-Kickstartern.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;SIS.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ystad Seriefestival.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Uppsala comix.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 class=&#34;relative group&#34;&gt;Årets förlag
+    &lt;div id=&#34;årets-förlag&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#%c3%a5rets-f%c3%b6rlag&#34; aria-label=&#34;Ankare&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;
+    
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Lystring.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Galago.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Palabra.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sanatorium.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Epix.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ades.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Cobolt.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Kartago.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 class=&#34;relative group&#34;&gt;Årets antologi
+    &lt;div id=&#34;årets-antologi&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#%c3%a5rets-antologi&#34; aria-label=&#34;Ankare&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;
+    
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Mängazine 3.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Home Made Comics 19.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Medlefors seriemord antologi.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Skarpnäcks antologi 2025.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Kvarnby Serier 2025.&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 class=&#34;relative group&#34;&gt;Årets handlare
+    &lt;div id=&#34;årets-handlare&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#%c3%a5rets-handlare&#34; aria-label=&#34;Ankare&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;
+    
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Seriekällaren.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Comics Heaven.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Seriehörnan.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Larry’s Corner.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Seriebörsen.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      
+    </item>
     
     <item>
       <title>Vinnare 2025</title>
-      <link>http://localhost:55916/vinnare/vinnare2025/</link>
+      <link>http://localhost:1313/vinnare/vinnare2025/</link>
       <pubDate>Sat, 29 Nov 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:55916/vinnare/vinnare2025/</guid>
+      <guid>http://localhost:1313/vinnare/vinnare2025/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;Här kommer vinnarna 2025 att presenteras 2026
     &lt;div id=&#34;här-kommer-vinnarna-2025-att-presenteras-2026&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -99,10 +413,10 @@
     
     <item>
       <title>Kategorier</title>
-      <link>http://localhost:55916/kategorier/</link>
+      <link>http://localhost:1313/kategorier/</link>
       <pubDate>Fri, 28 Nov 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:55916/kategorier/</guid>
+      <guid>http://localhost:1313/kategorier/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;Här är kategorierna i Seriefolkets stora pris 2025
     &lt;div id=&#34;här-är-kategorierna-i-seriefolkets-stora-pris-2025&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -139,17 +453,17 @@
     
     <item>
       <title>Om priset</title>
-      <link>http://localhost:55916/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Fri, 28 Nov 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:55916/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>&lt;p&gt;&lt;figure&gt;&lt;img
     class=&#34;my-0 rounded-md&#34;
     loading=&#34;lazy&#34;
     decoding=&#34;async&#34;
     fetchpriority=&#34;low&#34;
     alt=&#34;Forum för seriefolk&#34;
-    src=&#34;http://localhost:55916/logo.svg?v=2&#34;
+    src=&#34;http://localhost:1313/logo.svg?v=2&#34;
     &gt;&lt;/figure&gt;
 &lt;/p&gt;
 
@@ -176,10 +490,10 @@ Priset består av äran, folkets kärlek och ett diplom.&lt;/p&gt;
     
     <item>
       <title>Omröstningar 2025</title>
-      <link>http://localhost:55916/lankar/</link>
+      <link>http://localhost:1313/lankar/</link>
       <pubDate>Fri, 28 Nov 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:55916/lankar/</guid>
+      <guid>http://localhost:1313/lankar/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;Här kommer länkar till alla omröstningar på Facebook att finnas när omröstningarna startar i början av 2026
     &lt;div id=&#34;här-kommer-länkar-till-alla-omröstningar-på-facebook-att-finnas-när-omröstningarna-startar-i-början-av-2026&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -260,10 +574,10 @@ Priset består av äran, folkets kärlek och ett diplom.&lt;/p&gt;
     
     <item>
       <title>Vinnare 2024</title>
-      <link>http://localhost:55916/vinnare/vinnare2024/</link>
+      <link>http://localhost:1313/vinnare/vinnare2024/</link>
       <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:55916/vinnare/vinnare2024/</guid>
+      <guid>http://localhost:1313/vinnare/vinnare2024/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;Här är vinnarna 2024
     &lt;div id=&#34;här-är-vinnarna-2024&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
