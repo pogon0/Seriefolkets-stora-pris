@@ -14,6 +14,7 @@ Alla kommer själva kunna lägga till nomineringar när omröstningarna drar ig�
 - _Vad ska jag packa?_ av Tova Brodin.
 - _Rökspira_ av Eddie Karlsson.
 - _Ett år av apokalyptiskt tänkande_ av Linda Spåman.
+- _Tre män funna mördade i Klippan_ av Max Hebert och Steve Nyberg.
 
 ### Årets översatta seriebok
 
@@ -110,6 +111,7 @@ Alla kommer själva kunna lägga till nomineringar när omröstningarna drar ig�
 - _Seriekatalogen.se._
 - _Rogers Seriemagasin._
 - _Bild & Bubbla._
+- Podden _Arkiv samtal_ av Simon Gärdenfors.
 
 ### Årets person
 
