@@ -21,7 +21,21 @@ main img {
   height: auto;
 }
 
-/* Flytta ner titeln på startsidan */
+/* Flytta ner rubben */
 article header h1 {
-  margin-top: 2rem; /* justera värdet efter behov */
+  margin-top: 2rem;
+}
+
+hr {
+  border: none !important; /* Tar bort alla tidigare borders */
+  height: 2px !important; /* Gör linjen 2px */
+  background-color: #ccc !important; /* Solid linje för light mode */
+  border-radius: 1px !important; /* Rundar ändarna */
+  margin: 1rem 0 !important; /* Vertikal marginal */
+}
+
+@media (prefers-color-scheme: dark) {
+  hr {
+    background-color: #666 !important; /* Solid linje i dark mode */
+  }
 }
