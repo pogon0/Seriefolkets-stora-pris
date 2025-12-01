@@ -7,14 +7,14 @@ defaultContentLanguageInSubdir = false
 
 [menu]
 
-  [[menu.main]]
-  name = "Om priset"
-  url = "/about/"
+ [[menu.main]]
+  name = "Logg"
+  url = "/Logg/"
   weight = 1
 
   [[menu.main]]
-  name = "faq"
-  url = "/faq/"
+  name = "Frågor"
+  url = "/fragor/"
   weight = 2
 
   [[menu.main]]

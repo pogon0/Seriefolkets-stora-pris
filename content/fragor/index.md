@@ -1,5 +1,5 @@
 ---
-title: "FAQ"
+title: "Frågor"
 date: 2025-11-28
 draft: false
 ---
@@ -8,7 +8,7 @@ draft: false
 
 #### **Om utgåvan är att klassa som ej renodlad då?**
 
-– För att kunna nomineras ska utgåvan innehålla minst 50 procent tecknade serier. När det gäller produkter i gränslandet mot exempelvis bilderböcker gäller _vox populi_. Gillar du inte en nominering? Rösta inte på den. Blir du sur av resultatet – muntra upp dig med att köpa en seriebok.
+– För att kunna nomineras ska utgåvan innehålla minst 50 procent tecknade serier. När det gäller produkter i gränslandet mot exempelvis bilderböcker gäller _vox populi_. Gillar du inte en nominering? Rösta inte på den. Blir du sur av resultatet – muntra upp dig med att köpa en _riktig_ seriebok.
 
 #### **Ska samma person eller serie verkligen kunna vinna varje år? Så blev det ju med Urhunden i början.**
 

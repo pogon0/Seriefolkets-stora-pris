@@ -1,12 +1,12 @@
 ---
-title: "Om priset"
+title: "Logg"
 date: 2025-11-28
 draft: false
 ---
 
-![Forum för seriefolk](/logo.svg?v=2)
+![Forum för seriefolk](/logo.svg)
 
-## Om Seriefolkets stora pris
+## Här kommer det att finnas utrymme för lite mer dokumentation om priset.
 
 **Seriefolkets stora pris** instiftades 2024. Medlemmarna i Facebook-gruppen [Forum för seriefolk](https://www.facebook.com/groups/seriefolk "Forum för seriefolk på Facebook") nominerar och röstar fram årets serievinnare i ett antal kategorier.  
 Priset består av äran, folkets kärlek och ett diplom.

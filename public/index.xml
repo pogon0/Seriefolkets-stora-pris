@@ -421,11 +421,11 @@
     </item>
     
     <item>
-      <title>FAQ</title>
-      <link>http://localhost:1313/faq/</link>
+      <title>Frågor</title>
+      <link>http://localhost:1313/fragor/</link>
       <pubDate>Fri, 28 Nov 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/faq/</guid>
+      <guid>http://localhost:1313/fragor/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;Här är svar på några frågor du kanske har
     &lt;div id=&#34;här-är-svar-på-några-frågor-du-kanske-har&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -445,7 +445,7 @@
     &lt;/span&gt;
     
 &lt;/h4&gt;
-&lt;p&gt;– För att kunna nomineras ska utgåvan innehålla minst 50 procent tecknade serier. När det gäller produkter i gränslandet mot exempelvis bilderböcker gäller &lt;em&gt;vox populi&lt;/em&gt;. Gillar du inte en nominering? Rösta inte på den. Blir du sur av resultatet – muntra upp dig med att köpa en seriebok.&lt;/p&gt;</description>
+&lt;p&gt;– För att kunna nomineras ska utgåvan innehålla minst 50 procent tecknade serier. När det gäller produkter i gränslandet mot exempelvis bilderböcker gäller &lt;em&gt;vox populi&lt;/em&gt;. Gillar du inte en nominering? Rösta inte på den. Blir du sur av resultatet – muntra upp dig med att köpa en &lt;em&gt;riktig&lt;/em&gt; seriebok.&lt;/p&gt;</description>
       
     </item>
     
@@ -490,27 +490,27 @@
     </item>
     
     <item>
-      <title>Om priset</title>
-      <link>http://localhost:1313/about/</link>
+      <title>Logg</title>
+      <link>http://localhost:1313/logg/</link>
       <pubDate>Fri, 28 Nov 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/about/</guid>
+      <guid>http://localhost:1313/logg/</guid>
       <description>&lt;p&gt;&lt;figure&gt;&lt;img
     class=&#34;my-0 rounded-md&#34;
     loading=&#34;lazy&#34;
     decoding=&#34;async&#34;
     fetchpriority=&#34;low&#34;
     alt=&#34;Forum för seriefolk&#34;
-    src=&#34;http://localhost:1313/logo.svg?v=2&#34;
+    src=&#34;http://localhost:1313/logo.svg&#34;
     &gt;&lt;/figure&gt;
 &lt;/p&gt;
 
-&lt;h2 class=&#34;relative group&#34;&gt;Om Seriefolkets stora pris
-    &lt;div id=&#34;om-seriefolkets-stora-pris&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+&lt;h2 class=&#34;relative group&#34;&gt;Här kommer det att finnas utrymme för lite mer dokumentation om priset.
+    &lt;div id=&#34;här-kommer-det-att-finnas-utrymme-för-lite-mer-dokumentation-om-priset&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
-        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#om-seriefolkets-stora-pris&#34; aria-label=&#34;Ankare&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#h%c3%a4r-kommer-det-att-finnas-utrymme-f%c3%b6r-lite-mer-dokumentation-om-priset&#34; aria-label=&#34;Ankare&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;
     
 &lt;/h2&gt;
