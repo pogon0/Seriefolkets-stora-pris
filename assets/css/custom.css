@@ -39,3 +39,7 @@ hr {
     background-color: #666 !important; /* Solid linje i dark mode */
   }
 }
+
+#main-content article {
+  justify-content: flex-start; /* börja från toppen lodrätt */
+}
