@@ -74,6 +74,7 @@ Alla kommer själva kunna lägga till nomineringar när omröstningarna drar ig�
 - _Indiana OIX & Kattis the Kid_ av Kattis Mörk. [❓](#)
 - _Hej!_ av Martin Kellerman. [❓](#)
 - _Vi har gjort ett zine om köpcentret Entré,_ redaktör Siri Nuottaniemi. [❓](#)
+- _Saltvatten_ av Lovisa Prage. [❓](#)
 
 ### Årets egenutgivna seriebok
 
