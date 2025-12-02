@@ -7,11 +7,11 @@ html {
   font-family: font;
 }
 
-.prose {
-  max-width: 80%;
-}
-.max-w-prose {
-  max-width: 80%;
+@media (min-width: 640px) {
+  .prose,
+  .max-w-prose {
+    max-width: 80%;
+  }
 }
 
 main img {
