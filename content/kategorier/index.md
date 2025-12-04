@@ -4,7 +4,9 @@ date: 2025-11-28
 draft: false
 ---
 
-## Här är kategorierna i Seriefolkets stora pris 2025
+## Här är kategorierna i Seriefolkets stora pris
+
+Seriefolkets stora pris är i ständig förändring. Tycker du någon kategori är oklar eller kanske inkluderar eller utesluter något den inte borde göra? Hör av dig. Målet är att allt och alla ska kunna vinna, men det ska vara rimligt många kategorier.
 
 ### Årets svenska seriebok
 

@@ -6,7 +6,7 @@ draft: false
 
 ## Nomineringar till Seriefolkets stora pris 2025
 
-Alla kommer själva kunna lägga till nomineringar när omröstningarna drar igång, men här är lite ihopsamlade grundnomineringar så vi undviker dubbel-nomineringar, har något att utgå ifrån och har ett ställe att dokumentera nomineringarna på.
+Alla kommer själva kunna lägga till nomineringar när omröstningarna drar igång, men här är lite ihopsamlade grundnomineringar så vi undviker dubbel-nomineringar, har något att utgå ifrån och har ett ställe att dokumentera nomineringarna på. Om du undrar hur kategorierna definieras och avgränsas kan du läsa mer under [Kategorier](/kategorier).
 
 ### Årets svenska seriebok
 
