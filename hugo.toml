@@ -9,7 +9,7 @@ defaultContentLanguageInSubdir = false
 
  [[menu.main]]
   name = "Logg"
-  url = "/Logg/"
+  url = ""       # Ingen indexsida  
   weight = 1
 
   [[menu.main]]
@@ -47,10 +47,10 @@ url = "/nomineringar/nomineringar2025/"
 weight = 2
 parent = "Nomineringar"
 
-  [[menu.main]]
-  name = "Omröstningar"
-  url = "/lankar/"
-  weight = 5
+[[menu.main]]
+name = "Omröstningar"
+url = "/lankar/"
+weight = 5
 
 [[menu.main]]
 name = "Vinnare"
