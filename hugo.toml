@@ -9,12 +9,12 @@ defaultContentLanguageInSubdir = false
 
  [[menu.main]]
   name = "Logg"
-  url = ""       # Ingen indexsida  
+  identifier = "Logg"  
   weight = 1
 
   [[menu.main]]
-  name = "Foton 2024 års vinnare"
-  url = "logg/foton2024/"
+  name = "Vinnarfoton"
+  url = "/logg/foton2024/"
   weight = 1
   parent = "Logg"
 
@@ -31,21 +31,20 @@ defaultContentLanguageInSubdir = false
 
 [[menu.main]]
 name = "Nomineringar"
-url = ""          # Ingen indexsida
 weight = 4
 identifier = "Nomineringar"
 
-[[menu.main]]
-name = "Nomineringar 2024"
-url = "/nomineringar/nomineringar2024/"
-weight = 1
-parent = "Nomineringar"
+    [[menu.main]]
+    name = "Nomineringar 2024"
+    url = "/nomineringar/2024/"
+    weight = 1
+    parent = "Nomineringar"
 
-[[menu.main]]
-name = "Nomineringar 2025"
-url = "/nomineringar/nomineringar2025/"
-weight = 2
-parent = "Nomineringar"
+    [[menu.main]]
+    name = "Nomineringar 2025"
+    url = "/nomineringar/2025/"
+    weight = 2
+    parent = "Nomineringar"
 
 [[menu.main]]
 name = "Omröstningar"
@@ -54,21 +53,20 @@ weight = 5
 
 [[menu.main]]
 name = "Vinnare"
-url = ""          # Ingen indexsida
 weight = 6
 identifier = "vinnare"
 
-[[menu.main]]
-name = "Vinnare 2024"
-url = "/vinnare/vinnare2024/"
-weight = 1
-parent = "vinnare"
+    [[menu.main]]
+    name = "Vinnare 2024"
+    url = "/vinnare/2024/"
+    weight = 1
+    parent = "vinnare"
 
-[[menu.main]]
-name = "Vinnare 2025"
-url = "/vinnare/vinnare2025/"
-weight = 2
-parent = "vinnare"
+    [[menu.main]]
+    name = "Vinnare 2025"
+    url = "/vinnare/2025/"
+    weight = 2
+    parent = "vinnare"
 
 [languages]
 

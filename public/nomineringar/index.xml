@@ -11,10 +11,10 @@
     
     <item>
       <title>Nomineringar 2025</title>
-      <link>http://localhost:1313/nomineringar/nomineringar2025/</link>
+      <link>http://localhost:1313/nomineringar/2025/</link>
       <pubDate>Sun, 30 Nov 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/nomineringar/nomineringar2025/</guid>
+      <guid>http://localhost:1313/nomineringar/2025/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;Nomineringar till Seriefolkets stora pris 2025
     &lt;div id=&#34;nomineringar-till-seriefolkets-stora-pris-2025&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -25,7 +25,7 @@
     
 &lt;/h2&gt;
 &lt;p&gt;Alla kommer själva kunna lägga till nomineringar när omröstningarna drar igång, men här är lite ihopsamlade grundnomineringar så vi undviker dubbel-nomineringar, har något att utgå ifrån och har ett ställe att dokumentera nomineringarna på. Om du undrar hur kategorierna definieras och avgränsas kan du läsa mer under &lt;a
-  href=&#34;http://localhost:1313/kategorier&#34;&gt;Kategorier&lt;/a&gt;&lt;/p&gt;
+  href=&#34;http://localhost:1313/kategorier&#34;&gt;Kategorier&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h3 class=&#34;relative group&#34;&gt;Årets svenska seriebok
     &lt;div id=&#34;årets-svenska-seriebok&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
@@ -625,10 +625,10 @@
     
     <item>
       <title>Nominerade 2024</title>
-      <link>http://localhost:1313/nomineringar/nomineringar2024/</link>
+      <link>http://localhost:1313/nomineringar/2024/</link>
       <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/nomineringar/nomineringar2024/</guid>
+      <guid>http://localhost:1313/nomineringar/2024/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;Här är alla nominerade 2024
     &lt;div id=&#34;här-är-alla-nominerade-2024&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
