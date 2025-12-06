@@ -64,6 +64,9 @@ Alla kommer själva kunna lägga till nomineringar när omröstningarna drar ig�
 - _The Amazing Spider-Man,_ Marvel. [➜](https://www.marvel.com/comics/series/41731/the_amazing_spiderman_2025_present)
 - _Absolute Martian Manhunter,_ DC. [➜](https://www.dc.com/comics/absolute-martian-manhunter-2025/absolute-martian-manhunter-1)
 - _Hello Darkness 11,_ Boom. [➜](https://www.boom-studios.com/archives/hello-darkness-11-first-look/)
+- _Absolute Batman 2025 Annual_ #1, DC. [➜](https://www.dc.com/comics/absolute-batman-2024/absolute-batman-2025-annual-1)
+- _Tales of Paranoia_ av R. Crumb, Fantagraphics. [➜](https://www.fantagraphics.com/products/tales-of-paranoia)
+- _Giant Size Criminal #1_ av Ed Brubaker och Sean Phillips, Image. [➜](https://imagecomics.com/comics/releases/giant-size-criminal-1)
 
 ### Årets fanzine
 
