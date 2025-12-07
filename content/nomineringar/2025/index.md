@@ -83,6 +83,7 @@ Alla kommer själva kunna lägga till nomineringar när omröstningarna drar ig�
 
 - _Herrskap och hemligheter_ av Christina Jonsson. [➜](https://www.förlagfingerprintillustrationer.se/products/herrskap-och-hemligheter)
 - _Feltänkt 6 Alla mina kretsar_ av Yvette Gustafsson. [➜](https://uvett.se/feltankt-nr-6-alla-mina-kretsar/)
+- _Två månader i Tanger_ av Gunnar Krantz. [➜](https://www.bokus.com/bok/9789198502565/tva-manader-i-tanger)
 
 ### Årets webbserie
 
