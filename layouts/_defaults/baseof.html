@@ -14,7 +14,7 @@
   <body class="{{ $bodyLayout }} {{ $bodyColor }} {{ $bodyScrollbar }}">
     <div id="the-top" class="absolute flex self-center">
       <a
-        class="px-3 h-[1px] text-sm -translate-y-8 rounded-b-lg bg-primary-200 focus:translate-y-0 dark:bg-neutral-600"
+        class="px-3 h-px text-sm -translate-y-8 rounded-b-lg bg-primary-200 focus:translate-y-0 dark:bg-neutral-600"
         href="#main-content">
         <span class="font-bold text-primary-600 pe-2 dark:text-primary-400"
           >&darr;</span
@@ -22,7 +22,6 @@
         {{ i18n "nav.skip_to_main" }}
       </a>
     </div>
-
     {{ $header := print "header/" site.Params.header.layout ".html" }} {{ if
     templates.Exists ( printf "partials/%s" $header ) }} {{ partial $header . }}
     {{ else }} {{ partial "header/basic.html" . }} {{ end }}
