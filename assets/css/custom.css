@@ -43,3 +43,9 @@ hr {
 #main-content article {
   justify-content: flex-start; /* börja från toppen lodrätt */
 }
+
+#the-top a {
+  height: 1px !important;
+  padding-top: 0 !important;
+  padding-bottom: 0 !important;
+}
