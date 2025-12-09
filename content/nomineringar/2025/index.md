@@ -67,6 +67,7 @@ Alla kommer själva kunna lägga till nomineringar när omröstningarna drar ig�
 - _Absolute Batman 2025 Annual_ #1, DC. [➜](https://www.dc.com/comics/absolute-batman-2024/absolute-batman-2025-annual-1)
 - _Tales of Paranoia_ av R. Crumb, Fantagraphics. [➜](https://www.fantagraphics.com/products/tales-of-paranoia)
 - _Giant Size Criminal #1_ av Ed Brubaker och Sean Phillips, Image. [➜](https://imagecomics.com/comics/releases/giant-size-criminal-1)
+- _Red Book_ av James Tynion IV, Michael Avon Oeming och Daniel Hansen, Dark Horse. [➜](https://www.darkhorse.com/comics/3011-882/red-book-i-2/)
 
 ### Årets fanzine
 
