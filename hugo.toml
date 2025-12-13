@@ -82,3 +82,9 @@ identifier = "vinnare"
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
+
+[defaultImage]
+  opengraph = "img/og-default.jpg"
+
+  [seo]
+  enable = true
