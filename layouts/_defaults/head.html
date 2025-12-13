@@ -15,84 +15,71 @@
   <meta
     name="title"
     content="{{ .Title | emojify }} &middot; {{ .Site.Title | emojify }}" />
-  {{ end }} {{/* Metadata */}} {{ with (.Params.Summary | default
+  {{ end }} {{/* Description */}} {{ with (.Params.Summary | default
   .Params.Description) | default .Site.Params.description }}
   <meta name="description" content="{{ . }}" />
-  {{ end }} {{ with .Params.Tags | default .Site.Params.keywords }}
-  <meta name="keywords" content="{{ range . }}{{ . }},{{ end }}" />
-  {{ end }} {{ with .Site.Params.robots }}
-  <meta name="robots" content="{{ . }}" />
-  {{ end }} {{ with .Params.robots }}
-  <meta name="robots" content="{{ . }}" />
-  {{ end }}
+  {{ end }} {{/* Canonical */}}
   <link rel="canonical" href="{{ .Permalink }}" />
-  {{ range .AlternativeOutputFormats }} {{ printf `
-  <link rel="%s" type="%s" href="%s" title="%s" />
-  ` .Rel .MediaType.Type .RelPermalink ($.Site.Title | emojify) | safeHTML }} {{
-  end }} {{/* Author */}} {{ with .Site.Params.Author.name }}
-  <meta name="author" content="{{ . }}" />
-  {{ end }} {{ with .Site.Params.Author.links }} {{ range $links := . }} {{
-  range $name, $url := $links }} {{ if not (strings.HasPrefix $url "mailto:") }}
-  <link href="{{ $url }}" rel="me" />
-  {{ end }} {{ end }} {{ end }} {{ end }} {{/* Social / OpenGraph / Twitter */}}
-  {{ template "_internal/opengraph.html" . }} {{ template
-  "_internal/twitter_cards.html" . }} {{/* Fallback featured image */}} {{
-  $featureImage := "" }} {{ $pageImages := .Resources.ByType "image" }} {{ range
-  slice "*featured*" "*cover*" "*thumbnail*" }} {{ if not $featureImage }} {{
-  $featureImage = $pageImages.GetMatch . }} {{ end }} {{ end }} {{ if not
-  $featureImage }} {{ with .Site.Params.defaultSocialImage }} {{ $socialImage :=
-  "" }} {{ if or (strings.HasPrefix . "http:") (strings.HasPrefix . "https:") }}
-  {{ $socialImage = resources.GetRemote . }} {{ else }} {{ $socialImage =
-  resources.Get . }} {{ end }} {{ with $socialImage }}
-  <meta name="twitter:image" content="{{ .RelPermalink | absURL }}" />
-  <meta property="og:image" content="{{ .RelPermalink | absURL }}" />
-  {{ end }} {{ end }} {{ end }} {{/* Site Verification */}} {{ with
-  .Site.Params.verification.google }}
-  <meta name="google-site-verification" content="{{ . }}" />
-  {{ end }} {{ with .Site.Params.verification.bing }}
-  <meta name="msvalidate.01" content="{{ . }}" />
-  {{ end }} {{ with .Site.Params.verification.pinterest }}
-  <meta name="p:domain_verify" content="{{ . }}" />
-  {{ end }} {{ with .Site.Params.verification.yandex }}
-  <meta name="yandex-verification" content="{{ . }}" />
-  {{ end }} {{ with .Site.Params.verification.fediverse }}
-  <meta name="fediverse:creator" content="{{ . }}" />
-  {{ end }} {{ $alg := .Site.Params.fingerprintAlgorithm | default "sha512" }}
-  {{/* CSS */}} {{ $cssResources := slice }} {{ $schemeName :=
-  .Site.Params.colorScheme | default "blowfish" }} {{ $cssScheme :=
-  resources.Get (printf "css/schemes/%s.css" $schemeName) | default
-  (resources.Get "css/schemes/blowfish.css") }} {{ $cssResources = $cssResources
-  | append $cssScheme }} {{ $cssResources = $cssResources | append
-  (resources.Get "css/compiled/main.css") }} {{ with resources.Get
-  "css/custom.css" }} {{ $cssResources = $cssResources | append . }} {{ end }}
-  {{ if not .Site.Params.disableImageZoom | default true }} {{ $cssResources =
-  $cssResources | append (resources.Get "lib/zoom/style.css") }} {{ end }} {{
+
+  {{/* Open Graph + Twitter Card */}} {{ $ogImage := "" }} {{ with
+  .Params.images }} {{ $ogImage = index . 0 | absURL }} {{ else }} {{ $ogImage =
+  "https://seriefolkets-stora-pris.vercel.app/img/og-default.png" }} {{ end }}
+
+  <!-- Open Graph -->
+  <meta
+    property="og:type"
+    content="{{ if .IsHome }}website{{ else }}article{{ end }}" />
+  <meta property="og:title" content="{{ .Title | default .Site.Title }}" />
+  <meta
+    property="og:description"
+    content="{{ with .Params.Summary | default .Params.Description | default .Site.Params.description }}{{ . }}{{ end }}" />
+  <meta property="og:url" content="{{ .Permalink }}" />
+  <meta property="og:image" content="{{ $ogImage }}" />
+  <meta property="og:image:width" content="1200" />
+  <meta property="og:image:height" content="630" />
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="{{ .Title | default .Site.Title }}" />
+  <meta
+    name="twitter:description"
+    content="{{ with .Params.Summary | default .Params.Description | default .Site.Params.description }}{{ . }}{{ end }}" />
+  <meta name="twitter:image" content="{{ $ogImage }}" />
+
+  {{/* CSS och JS, Favicons etc. */}} {{ $alg :=
+  .Site.Params.fingerprintAlgorithm | default "sha512" }} {{ $cssResources :=
+  slice }} {{ $schemeName := .Site.Params.colorScheme | default "blowfish" }} {{
+  $cssScheme := resources.Get (printf "css/schemes/%s.css" $schemeName) |
+  default (resources.Get "css/schemes/blowfish.css") }} {{ $cssResources =
+  $cssResources | append $cssScheme | append (resources.Get
+  "css/compiled/main.css") }} {{ with resources.Get "css/custom.css" }}{{
+  $cssResources = $cssResources | append . }}{{ end }} {{ if not
+  .Site.Params.disableImageZoom | default true }}{{ $cssResources =
+  $cssResources | append (resources.Get "lib/zoom/style.css") }}{{ end }} {{
   $bundleCSS := $cssResources | resources.Concat "css/main.bundle.css" |
   resources.Minify | resources.Fingerprint $alg }}
   <link
-    type="text/css"
     rel="stylesheet"
     href="{{ $bundleCSS.RelPermalink }}"
     integrity="{{ $bundleCSS.Data.Integrity }}" />
 
-  {{/* JS loaded immediately */}} {{ $jsAppearance := resources.Get
-  "js/appearance.js" | resources.ExecuteAsTemplate "js/appearance.js" . |
-  resources.Minify | resources.Fingerprint $alg }}
+  {{ $jsAppearance := resources.Get "js/appearance.js" |
+  resources.ExecuteAsTemplate "js/appearance.js" . | resources.Minify |
+  resources.Fingerprint $alg }}
   <script
     type="text/javascript"
     src="{{ $jsAppearance.RelPermalink }}"
     integrity="{{ $jsAppearance.Data.Integrity }}"></script>
 
-  {{/* Favicons - använder dina filer i static/ */}} <link
-  rel="apple-touch-icon" sizes="180x180" href="{{ "apple-touch-icon.png" |
+  <link rel="apple-touch-icon" sizes="180x180" href="{{ "apple-touch-icon.png" |
   relURL }}"> <link rel="icon" type="image/png" sizes="32x32" href="{{
   "favicon-32x32.png" | relURL }}"> <link rel="icon" type="image/png"
   sizes="16x16" href="{{ "favicon-16x16.png" | relURL }}"> <link rel="icon"
   href="{{ "favicon.ico" | relURL }}"> <link rel="manifest" href="{{
-  "site.webmanifest" | relURL }}"> {{/* Resten av head (schema, analytics etc.)
-  */}} {{ partial "schema.html" . }} {{ if hugo.IsProduction }} {{ partial
-  "analytics/main.html" . }} {{ end }} {{ if templates.Exists
-  "partials/extend-head.html" }} {{ partialCached "extend-head.html" .Site }} {{
-  end }} {{ if templates.Exists "partials/extend-head-uncached.html" }} {{
-  partial "extend-head-uncached.html" . }} {{ end }}
+  "site.webmanifest" | relURL }}"> {{/* Schema, analytics etc. */}} {{ partial
+  "schema.html" . }} {{ if hugo.IsProduction }} {{ partial "analytics/main.html"
+  . }} {{ end }} {{ if templates.Exists "partials/extend-head.html" }} {{
+  partialCached "extend-head.html" .Site }} {{ end }} {{ if templates.Exists
+  "partials/extend-head-uncached.html" }} {{ partial "extend-head-uncached.html"
+  . }} {{ end }}
 </head>
