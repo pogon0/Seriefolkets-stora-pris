@@ -56,6 +56,7 @@ Alla kommer själva kunna lägga till nomineringar när omröstningarna drar ig�
 - _Kalle Anka klassiker._ [➜](https://dintidning.se/kalle-anka-klassiker)
 - _Portal._ [➜](https://serieframjandet.se/portal/)
 - _MAL._ [➜](https://malmagasin.com)
+- _Nej! #3_ av Mats Jonsson, Lystring. [➜](https://www.bokus.com/bok/9789198925364/nej-3)
 
 ### Årets utländska serietidning
 
