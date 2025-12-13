@@ -812,7 +812,17 @@
       <pubDate>Sat, 29 Nov 2025 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/vinnare/2025/</guid>
-      <description>&lt;h2 class=&#34;relative group&#34;&gt;Här kommer vinnarna 2025 att presenteras 2026
+      <description>&lt;p&gt;&lt;figure&gt;&lt;img
+    class=&#34;my-0 rounded-md&#34;
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    fetchpriority=&#34;low&#34;
+    alt=&#34;&#34;
+    src=&#34;http://localhost:1313/img/og-default.png&#34;
+    &gt;&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;h2 class=&#34;relative group&#34;&gt;Här kommer vinnarna 2025 att presenteras 2026
     &lt;div id=&#34;här-kommer-vinnarna-2025-att-presenteras-2026&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
@@ -929,7 +939,17 @@
       <pubDate>Fri, 28 Nov 2025 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/kategorier/</guid>
-      <description>&lt;h2 class=&#34;relative group&#34;&gt;Här är kategorierna i Seriefolkets stora pris
+      <description>&lt;p&gt;&lt;figure&gt;&lt;img
+    class=&#34;my-0 rounded-md&#34;
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    fetchpriority=&#34;low&#34;
+    alt=&#34;&#34;
+    src=&#34;http://localhost:1313/img/og-default.png&#34;
+    &gt;&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;h2 class=&#34;relative group&#34;&gt;Här är kategorierna i Seriefolkets stora pris
     &lt;div id=&#34;här-är-kategorierna-i-seriefolkets-stora-pris&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
@@ -959,7 +979,17 @@
       <pubDate>Fri, 28 Nov 2025 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/lankar/</guid>
-      <description>&lt;h2 class=&#34;relative group&#34;&gt;Här kommer länkar till alla omröstningar på Facebook att finnas när omröstningarna startar i början av 2026
+      <description>&lt;p&gt;&lt;figure&gt;&lt;img
+    class=&#34;my-0 rounded-md&#34;
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    fetchpriority=&#34;low&#34;
+    alt=&#34;&#34;
+    src=&#34;http://localhost:1313/img/og-default.png&#34;
+    &gt;&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;h2 class=&#34;relative group&#34;&gt;Här kommer länkar till alla omröstningar på Facebook att finnas när omröstningarna startar i början av 2026
     &lt;div id=&#34;här-kommer-länkar-till-alla-omröstningar-på-facebook-att-finnas-när-omröstningarna-startar-i-början-av-2026&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
@@ -1023,15 +1053,7 @@
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;a
-  href=&#34;#&#34;&gt;Årets förlag&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a
-  href=&#34;#&#34;&gt;Årets antologi&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a
-  href=&#34;#&#34;&gt;Årets handlare&lt;/a&gt;&lt;/p&gt;</description>
+  href=&#34;#&#34;&gt;Årets förlag&lt;/a&gt;&lt;/p&gt;</description>
       
     </item>
     

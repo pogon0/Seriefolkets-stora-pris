@@ -4,6 +4,8 @@ date: 2025-11-29
 draft: false
 ---
 
+![](/img/og-default.png)
+
 ## Här kommer vinnarna 2025 att presenteras 2026
 
 - [Årets svenska seriebok](#)

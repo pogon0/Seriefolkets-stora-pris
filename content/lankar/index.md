@@ -4,6 +4,8 @@ date: 2025-11-28
 draft: false
 ---
 
+![](/img/og-default.png)
+
 ## Här kommer länkar till alla omröstningar på Facebook att finnas när omröstningarna startar i början av 2026
 
 - [Årets svenska seriebok](#)
