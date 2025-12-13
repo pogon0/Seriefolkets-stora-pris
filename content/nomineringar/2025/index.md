@@ -139,6 +139,7 @@ Alla kommer själva kunna lägga till nomineringar när omröstningarna drar ig�
 - **Ystad Seriefestival.** [➜](https://biblioteket.stockholm.se/evenemang/stockholms-internationella-seriefestival-2025-sis25-1)
 - **Uppsala comix.** [➜](https://uppsalacomix.se)
 - **Fabian Göranson belönas med Augustpriset.** [➜](https://www.galago.se/2025/11/25/augustpriset-till-fabian-goranson/)
+- **Svenska tecknares stipendium Löken.** [➜](https://svenskatecknare.se/loken)
 
 ### Årets förlag
 
