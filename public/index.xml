@@ -164,7 +164,17 @@
       <pubDate>Sun, 30 Nov 2025 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/nomineringar/2025/</guid>
-      <description>&lt;h2 class=&#34;relative group&#34;&gt;Nomineringar till Seriefolkets stora pris 2025
+      <description>&lt;p&gt;&lt;figure&gt;&lt;img
+    class=&#34;my-0 rounded-md&#34;
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    fetchpriority=&#34;low&#34;
+    alt=&#34;&#34;
+    src=&#34;http://localhost:1313/img/og-default.png&#34;
+    &gt;&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;h2 class=&#34;relative group&#34;&gt;Nomineringar till Seriefolkets stora pris 2025
     &lt;div id=&#34;nomineringar-till-seriefolkets-stora-pris-2025&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
@@ -370,6 +380,10 @@
   href=&#34;https://malmagasin.com&#34;
     target=&#34;_blank&#34;
   &gt;➜&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Nej! #3&lt;/em&gt; av Mats Jonsson, Lystring. &lt;a
+  href=&#34;https://www.bokus.com/bok/9789198925364/nej-3&#34;
+    target=&#34;_blank&#34;
+  &gt;➜&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 class=&#34;relative group&#34;&gt;Årets utländska serietidning
@@ -412,6 +426,10 @@
   &gt;➜&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Giant Size Criminal #1&lt;/em&gt; av Ed Brubaker och Sean Phillips, Image. &lt;a
   href=&#34;https://imagecomics.com/comics/releases/giant-size-criminal-1&#34;
+    target=&#34;_blank&#34;
+  &gt;➜&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Red Book #2&lt;/em&gt; av James Tynion IV, Michael Avon Oeming och Daniel Hansen, Dark Horse. &lt;a
+  href=&#34;https://www.darkhorse.com/comics/3011-882/red-book-i-2/&#34;
     target=&#34;_blank&#34;
   &gt;➜&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
