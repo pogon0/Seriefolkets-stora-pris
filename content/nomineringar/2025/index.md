@@ -36,18 +36,18 @@ Alla kommer själva kunna lägga till nomineringar när omröstningarna drar ig�
 - _Prins Charles känsla,_ Norstedts. [➜](https://www.adlibris.com/sv/bok/prins-charles-kansla-9789113132051)
 - _Hey Princess,_ Galago. [➜](https://www.adlibris.com/sv/bok/hey-princess-9789177755081)
 - _X‑Men: Ur askan…,_ Ades. [➜](https://www.adlibris.com/sv/bok/x-men-ur-askan-9789188131867)
+- _The Legend of Kamui 1 & 2_ av Sanpei Shirato. [➜](https://www.adlibris.com/se/sok?q=The+Legend+of+Kamui)
+- _Rowlf and Other Fantasy Stories_ av Richard Corben. [➜](https://www.adlibris.com/sv/bok/rowlf-and-other-fantasy-stories-9781506749839)
+- _The Solitary Gourmet_ av Jiro Taniguchi & Masayuki Kusumi. [➜](https://www.adlibris.com/sv/bok/the-solitary-gourmet-9781912097449)
 
 ### Årets utländska seriebok
 
 - _The Ephemerata_ av Carol Tyler. [➜](https://www.fantagraphics.com/products/the-ephemerata-shaping-the-exquisite-nature-of-grief)
 - _Tongues 1_ av Anders Nilsen. [➜](https://www.adlibris.com/sv/bok/tongues-i-9781787330658)
 - _Spent_ av Alison Bechdel. [➜](https://www.adlibris.com/sv/bok/spent-9781787335394)
-- _The Legend of Kamui 1 & 2_ av Sanpei Shirato. [➜](https://www.adlibris.com/se/sok?q=The+Legend+of+Kamui)
 - _Misery of Love_ av Yvan Alagbé. [➜](https://www.adlibris.com/sv/bok/misery-of-love-9781681379180)
 - _Physics for Cats_ av Tom Gauld. [➜](https://www.adlibris.com/sv/bok/physics-for-cats-9781837265305)
-- _The Solitary Gourmet_ av Jiro Taniguchi & Masayuki Kusumi. [➜](https://www.adlibris.com/sv/bok/the-solitary-gourmet-9781912097449)
 - _The Once and Future Riot_ av Joe Sacco. [➜](https://www.adlibris.com/sv/bok/the-once-and-future-riot-9781787334328)
-- _Rowlf and Other Fantasy Stories_ av Richard Corben. [➜](https://www.adlibris.com/sv/bok/rowlf-and-other-fantasy-stories-9781506749839)
 - _Muybridge_ av Guy Delisle. [➜](https://www.adlibris.com/sv/bok/muybridge-9781770467729)
 
 ### Årets svenska serietidning
