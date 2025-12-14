@@ -12,7 +12,7 @@ Seriefolkets stora pris är i ständig förändring. Tycker du någon kategori �
 
 ### Årets svenska seriebok
 
-Nyare serier i nya böcker. Om boken passar in i kategorin Klassikerutgåva passar den inte in här. Pris till upphovspersonen.
+Nyare serier i nya böcker. Om boken passar in i kategorin Klassikerutgåva passar den inte in här. Pris till upphovspersonen. Boken ska vara utgiven i Sverige, men behöver inte vara på svenska.
 
 ### Årets översatta seriebok
 
