@@ -72,7 +72,7 @@ Alla kommer själva kunna lägga till nomineringar när omröstningarna drar ig�
 - _Giant Size Criminal #1_ av Ed Brubaker och Sean Phillips, Image. [➜](https://imagecomics.com/comics/releases/giant-size-criminal-1)
 - _Red Book #2_ av James Tynion IV, Michael Avon Oeming och Daniel Hansen, Dark Horse. [➜](https://www.darkhorse.com/comics/3011-882/red-book-i-2/)
 
-### Årets fanzine
+### Årets fanzin
 
 - _Min minjär_ av Cajsa Nordlund. [➜](https://www.etsy.com/se-en/listing/4372930966/comic-min-minjar)
 - _På kickoff med döden_ av Elias Olsson. [❓](#)
@@ -121,6 +121,7 @@ Alla kommer själva kunna lägga till nomineringar när omröstningarna drar ig�
 - _Rogers Seriemagasin._ [➜](https://rogersmagasin.com)
 - _Bild & Bubbla._ [➜](https://bildobubbla.se)
 - Podden _Arkiv samtal_ av Simon Gärdenfors. [➜](https://www.patreon.com/arkivsamtal)
+- _How Comics Are Made: A Visual History from the Drawing Board to the Printed Page_ av Glenn Fleishman. [➜][https://www.amazon.com/How-Comics-Are-Made-History/dp/1524898775]
 
 ### Årets person
 
