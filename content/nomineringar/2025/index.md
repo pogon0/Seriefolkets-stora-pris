@@ -17,6 +17,7 @@ Alla kommer själva kunna lägga till nomineringar när omröstningarna drar ig�
 - _Rökspira_ av Eddie Karlsson. [➜](https://www.sanatorium.se/product-page/r%C3%B6kspira)
 - _Ett år av apokalyptiskt tänkande_ av Linda Spåman. [➜](https://www.adlibris.com/sv/bok/ett-ar-av-apokalyptiskt-tankande-9789177754688)
 - _Tre män funna mördade i Klippan_ av Max Hebert och Steve Nyberg. [➜](https://www.adlibris.com/sv/bok/tre-man-funna-mordade-i-klippan-9789177754671)
+- _A Perfect Place To Call Home_ av Julia Nascimento.[➜](https://cbkcomics.com/.../new-book-a-perfect-place-to.../)
 
 ### Årets översatta seriebok
 
@@ -49,6 +50,7 @@ Alla kommer själva kunna lägga till nomineringar när omröstningarna drar ig�
 - _Physics for Cats_ av Tom Gauld. [➜](https://www.adlibris.com/sv/bok/physics-for-cats-9781837265305)
 - _The Once and Future Riot_ av Joe Sacco. [➜](https://www.adlibris.com/sv/bok/the-once-and-future-riot-9781787334328)
 - _Muybridge_ av Guy Delisle. [➜](https://www.adlibris.com/sv/bok/muybridge-9781770467729)
+- _Salt Green Death_ av Katarina Thorsen. [➜](https://conundrumpress.com/product/salt-green-death/)
 
 ### Årets svenska serietidning
 
@@ -59,6 +61,7 @@ Alla kommer själva kunna lägga till nomineringar när omröstningarna drar ig�
 - _Portal._ [➜](https://serieframjandet.se/portal/)
 - _MAL._ [➜](https://malmagasin.com)
 - _Nej! #3_ av Mats Jonsson, Lystring. [➜](https://www.bokus.com/bok/9789198925364/nej-3)
+- _CBA_ [➜](https://cbkcomics.com/publications/cba/)
 
 ### Årets utländska serietidning
 
@@ -82,6 +85,7 @@ Alla kommer själva kunna lägga till nomineringar när omröstningarna drar ig�
 - _Hej!_ av Martin Kellerman. [❓](#)
 - _Vi har gjort ett zine om köpcentret Entré,_ redaktör Siri Nuottaniemi. [❓](#)
 - _Saltvatten_ av Lovisa Prage. [❓](#)
+- _Kretslopp_ av Svalan Sörblom. [➜](https://www.instagram.com/svalan_sorblom_art)
 
 ### Årets egenutgivna seriebok
 
