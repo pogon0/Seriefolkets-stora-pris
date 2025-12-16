@@ -18,6 +18,7 @@ Alla kommer själva kunna lägga till nomineringar när omröstningarna drar ig�
 - _Ett år av apokalyptiskt tänkande_ av Linda Spåman. [➜](https://www.adlibris.com/sv/bok/ett-ar-av-apokalyptiskt-tankande-9789177754688)
 - _Tre män funna mördade i Klippan_ av Max Hebert och Steve Nyberg. [➜](https://www.adlibris.com/sv/bok/tre-man-funna-mordade-i-klippan-9789177754671)
 - _A Perfect Place To Call Home_ av Julia Nascimento.[➜](https://cbkcomics.com/.../new-book-a-perfect-place-to.../)
+- _A Garden of Spheres_ av Linnea Sterte, Peow [➜](https://peow.studio/products/a-garden-of-spheres).
 
 ### Årets översatta seriebok
 
@@ -126,6 +127,7 @@ Alla kommer själva kunna lägga till nomineringar när omröstningarna drar ig�
 - _Bild & Bubbla._ [➜](https://bildobubbla.se)
 - Podden _Arkiv samtal_ av Simon Gärdenfors. [➜](https://www.patreon.com/arkivsamtal)
 - _How Comics Are Made: A Visual History from the Drawing Board to the Printed Page_ av Glenn Fleishman. [➜][https://www.amazon.com/How-Comics-Are-Made-History/dp/1524898775]
+- _Sekvenser vol 2._ [➜](https://sekvenser.se)
 
 ### Årets person
 
