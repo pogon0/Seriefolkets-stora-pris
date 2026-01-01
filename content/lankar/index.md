@@ -8,36 +8,36 @@ draft: false
 
 ## Här kommer länkar till alla omröstningar på Facebook att finnas när omröstningarna startar i början av 2026
 
-- [Årets svenska seriebok](#)
+- [Årets svenska seriebok](https://www.facebook.com/groups/seriefolk/permalink/1866737093935730/)
 
-- [Årets översatta seriebok](#)
+- [Årets översatta seriebok](https://www.facebook.com/groups/seriefolk/permalink/1866738180602288/)
 
-- [Årets klassikerutgivning](#)
+- [Årets klassikerutgivning](https://www.facebook.com/groups/seriefolk/permalink/1866739967268776/)
 
-- [Årets utländska seriebok](#)
+- [Årets utländska seriebok](https://www.facebook.com/groups/seriefolk/permalink/1866740957268677/)
 
-- [Årets svenska serietidning](#)
+- [Årets svenska serietidning](https://www.facebook.com/groups/seriefolk/permalink/1866742083935231/)
 
-- [Årets utländska serietidning](#)
+- [Årets utländska serietidning](https://www.facebook.com/groups/seriefolk/permalink/1866743190601787/)
 
-- [Årets fanzin](#)
+- [Årets fanzin](https://www.facebook.com/groups/seriefolk/permalink/1866744377268335/)
 
-- [Årets egenutgivna seriebok](#)
+- [Årets egenutgivna seriebok](https://www.facebook.com/groups/seriefolk/permalink/1866745547268218/)
 
-- [Årets webbserie](#)
+- [Årets webbserie](https://www.facebook.com/groups/seriefolk/permalink/1866746310601475/)
 
-- [Årets barnserie](#)
+- [Årets barnserie](https://www.facebook.com/groups/seriefolk/permalink/1866746957268077/)
 
-- [Årets publikation om tecknade serier](#)
+- [Årets publikation om tecknade serier](https://www.facebook.com/groups/seriefolk/permalink/1866748020601304/)
 
-- [Årets person](#)
+- [Årets person](https://www.facebook.com/groups/seriefolk/permalink/1866748813934558/)
 
-- [Årets händelse](#)
+- [Årets händelse](https://www.facebook.com/groups/seriefolk/permalink/1866749637267809/)
 
-- [Årets förlag](#)
+- [Årets förlag](https://www.facebook.com/groups/seriefolk/permalink/1866750443934395/)
 
-- [Årets antologi](#)
+- [Årets antologi](https://www.facebook.com/groups/seriefolk/permalink/1866750980601008/)
 
-- [Årets handlare](#)
+- [Årets handlare](https://www.facebook.com/groups/seriefolk/permalink/1866751850600921/)
 
-- [Årets serie i tidning](#)
+- [Årets serie i tidning](https://www.facebook.com/groups/seriefolk/permalink/1866752463934193/)
