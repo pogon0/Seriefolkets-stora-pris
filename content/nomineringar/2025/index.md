@@ -18,7 +18,7 @@ Alla kommer själva kunna lägga till nomineringar när omröstningarna drar ig�
 - _Ett år av apokalyptiskt tänkande_ av Linda Spåman. [➜](https://www.adlibris.com/sv/bok/ett-ar-av-apokalyptiskt-tankande-9789177754688)
 - _Tre män funna mördade i Klippan_ av Max Hebert och Steve Nyberg. [➜](https://www.adlibris.com/sv/bok/tre-man-funna-mordade-i-klippan-9789177754671)
 - _A Perfect Place To Call Home_ av Julia Nascimento.[➜](https://cbkcomics.com/.../new-book-a-perfect-place-to.../)
-- _A Garden of Spheres_ av Linnea Sterte, Peow. [➜](https://peow.studio/products/a-garden-of-spheres)
+- _A Garden of Spheres_ av Linnea Sterte. [➜](https://peow.studio/products/a-garden-of-spheres)
 
 ### Årets översatta seriebok
 
@@ -61,8 +61,8 @@ Alla kommer själva kunna lägga till nomineringar när omröstningarna drar ig�
 - _Kalle Anka klassiker._ [➜](https://dintidning.se/kalle-anka-klassiker)
 - _Portal._ [➜](https://serieframjandet.se/portal/)
 - _MAL._ [➜](https://malmagasin.com)
-- _Nej! #3_ av Mats Jonsson, Lystring. [➜](https://www.bokus.com/bok/9789198925364/nej-3)
-- _CBA_ [➜](https://cbkcomics.com/publications/cba/)
+- _Nej! #3_ av Mats Jonsson. [➜](https://www.bokus.com/bok/9789198925364/nej-3)
+- _CBA_. [➜](https://cbkcomics.com/publications/cba/)
 
 ### Årets utländska serietidning
 
@@ -126,7 +126,7 @@ Alla kommer själva kunna lägga till nomineringar när omröstningarna drar ig�
 - _Rogers Seriemagasin._ [➜](https://rogersmagasin.com)
 - _Bild & Bubbla._ [➜](https://bildobubbla.se)
 - Podden _Arkiv samtal_ av Simon Gärdenfors. [➜](https://www.patreon.com/arkivsamtal)
-- _How Comics Are Made: A Visual History from the Drawing Board to the Printed Page_ av Glenn Fleishman. [➜][https://www.amazon.com/How-Comics-Are-Made-History/dp/1524898775]
+- _How Comics Are Made: A Visual History from the Drawing Board to the Printed Page_ av Glenn Fleishman. [➜](<()https://www.amazon.com/How-Comics-Are-Made-History/dp/1524898775>)
 - _Sekvenser vol 2._ [➜](https://sekvenser.se)
 
 ### Årets person
@@ -175,4 +175,4 @@ Alla kommer själva kunna lägga till nomineringar när omröstningarna drar ig�
 - **Seriehörnan.** [➜](https://www.seriehornan.se)
 - **Larry’s Corner.** [➜](https://larryscorner.nu/sv)
 - **Seriebörsen.** [➜](https://www.serieborsen.se)
-- **Seriegalleriet** [➜](http://www.seriegalleriet.se)
+- **Seriegalleriet.** [➜](http://www.seriegalleriet.se)
