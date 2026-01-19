@@ -52,7 +52,7 @@ Serie publicerad digitalt i någon form i annat än rent marknadsföringssyfte f
 
 ### Årets publikation om tecknade serier
 
-Bäste svenska bok, podd, blogg, stream, kanal, konto, app, tidning, spel, spelfilm, dokumentär eller annat. Pris till ansvarig.
+Bäste svenska bok, podd, blogg, stream, kanal, konto, app, tidning, spel, spelfilm, dokumentär eller annat om tecknade serier. Pris till ansvarig.
 
 ### Årets person
 
