@@ -46,6 +46,12 @@ identifier = "Nomineringar"
     weight = 2
     parent = "Nomineringar"
 
+    [[menu.main]]
+    name = "Nomineringar 2026"
+    url = "/nomineringar/2026/"
+    weight = 3
+    parent = "Nomineringar"
+
 [[menu.main]]
 name = "Omröstningar"
 url = "/lankar/"
