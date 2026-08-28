@@ -19,7 +19,7 @@ Alla kommer själva kunna lägga till nomineringar när omröstningarna drar ig�
 - _Hunger_ av Siri Lidbeck. [➜](https://www.adlibris.com/sv/bok/hunger-9789189924444)
 - _Mina drömmars mack_ av Tommy Sundvall. [➜](https://www.adlibris.com/sv/bok/mina-drommars-mack-9789177755272)
 - _Everest_ av Alma Thörn. [➜](https://www.adlibris.com/sv/bok/everest-9789177755289)
-- _Immortal Guardian - Aegis 1_ av Viktor NamEngholmnsson. [➜](https://www.adlibris.com/sv/bok/immortal-guardian-aegis-1-9789198791211)
+- _Immortal Guardian - Aegis 1_ av Viktor Engholmn. [➜](https://www.adlibris.com/sv/bok/immortal-guardian-aegis-1-9789198791211)
 - _Lord All Smitey_ av Cecilia Vårhed. [➜](https://www.adlibris.com/sv/bok/lord-all-smitey-9789177755654)
 - _Not forever_ av Mats Jonnsson. [➜](https://www.adlibris.com/sv/bok/not-forever-9789177755678)
 - _Johan smakar på livet_ av Johan Wanloo. [➜](https://www.adlibris.com/sv/bok/johan-smakar-pa-livet-9789177755661)
@@ -37,15 +37,11 @@ Alla kommer själva kunna lägga till nomineringar när omröstningarna drar ig�
 - _Titel titel_ av Namn Namnsson. [➜](#) -->
 - _Lars Mortimers magiska värld_ av Lars Mortimer. [➜](https://www.adlibris.com/sv/bok/lars-mortimers-magiska-varld-9789181290493)
 
-### Årets utländska seriebok
+### Årets utländska serieutgåva
 
 - _Titel titel_ av Namn Namnsson. [➜](#)
 
 ### Årets svenska serietidning
-
-- _Tidningstitel._ [➜](#)
-
-### Årets utländska serietidning
 
 - _Tidningstitel._ [➜](#)
 
