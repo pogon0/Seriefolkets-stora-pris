@@ -67,6 +67,7 @@ Alla kommer själva kunna lägga till nomineringar när omröstningarna drar ig�
 
 ### Årets publikation om tecknade serier
 
+- _Gen zerier – tolv tecknare 2016-2026_ av Ola Hellsten. [➜](https://www.bokus.com/bok/9789187243486/gen-zerier-tolv-tecknare-2016-2026)
 - _Sekvenser/serieutgivning_. [➜](https://serieutgivning.sekvenser.se)
 - _Kamrat Bamse: revolution och klasskamp i 70-talets svenska serier_ av Robert Aman. [➜](https://www.adlibris.com/sv/bok/kamrat-bamse-revolution-och-klasskamp-i-70-talets-svenska-serier-9789190035368)
 - _Hulkologi_ av Christian Schremser. [➜](https://bildobubbla.se/category/kronikor/hulkologi/)
