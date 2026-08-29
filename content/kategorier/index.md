@@ -1,77 +1,77 @@
 ---
 title: "Kategorier"
-date: 2026-08-28
-draft: false
----
 
+date: 2026-08-29
+
+draft: false
 ---
 
 ![](/img/og-default-2026.png)
 
-**## Här är kategorierna i Seriefolkets stora pris**
+## Här är kategorierna i Seriefolkets stora pris
 
 Seriefolkets stora pris är i ständig förändring. Tycker du någon kategori är oklar eller kanske inkluderar eller utesluter något den inte borde göra? Hör av dig. Målet är att allt och alla ska kunna vinna, men det ska vara rimligt många kategorier. Intresset för de utländska kategorierna har varit så ljummet att utländska seriebok och serietidning slagits ihop.
 
-**### Årets svenska seriebok**
+### Årets svenska seriebok
 
 Nyare serier i nya böcker. Om boken passar in i kategorin Klassikerutgåva passar den inte in här. Pris till upphovspersonen. Boken ska vara utgiven i Sverige, alltså med 91 i ISBN, men behöver inte vara på svenska.
 
-**### Årets översatta seriebok**
+### Årets översatta seriebok
 
 I Sverige utgivna böcker som översatts från ett annat språk. Om boken passar in i kategorin Klassikerutgåva passar den inte in här. Pris till förlag och upphovspersoner.
 
-**### Årets klassikerutgivning**
+### Årets klassikerutgivning
 
 Klassikerutgivning är gamla serier i nya böcker. Det kan var nyutgåvor av böcker eller samlingar av äldre serier som tidigare publicerats i andra format. Svenska utgåvor. Pris till förlaget.
 
-**### Årets antologi**
+### Årets antologi
 
 Årets svenska serieantologi i bokform, ej tidning. Pris till utgivaren.
 
-**### Årets egenutgivna seriebok**
+### Årets egenutgivna seriebok
 
 Om det är den huvudsakliga upphovspersonen som gjort och gett ut boken är den egenutgiven. Den här kategorin diskvalificerar inte boken till att bli nominerad i kategorin Årets svenska seriebok. En bok har oftast ett rikare omfång, rygg och hårdare pärmar. Pris till utgivaren.
 
-**### Årets barnserie**
+### Årets barnserie
 
 Årets bästa serie för yngre läsare, avsett publiceringsform. Pris till upphovspersonerna.
 
-**### Årets svenska serietidning**
+### Årets svenska serietidning
 
 Den här svenska serietidningen var bäst förra året. Pris till redaktionen eller redaktören.
 
-**### Årets serie i tidning**
+### Årets serie i tidning
 
 Bästa nyproducerade svenska serie i redaktionell produkt som dagspress, tidskrift, veckotidning eller serietidning. Pris till serieskaparen.
 
-**### Årets webbserie**
+### Årets webbserie
 
 Serie publicerad digitalt i någon form i annat än rent marknadsföringssyfte för andra kanaler. Svensk eller utländsk. Pris till serieskaparen.
 
-**### Årets fanzin**
+### Årets fanzin
 
 Ett fanzin är i det här fallet egenutgivna serier i tidningsform. Pris till utgivaren.
 
-**### Årets utländska serieutgåva**
+### Årets utländska serieutgåva
 
 Den här serieboken eller serietidningen utgiven utanför Sverige var bäst förra året. Pris till förlaget.
 
-**### Årets publikation om tecknade serier**
+### Årets publikation om tecknade serier
 
 Bäste svenska bok, sajt, podd, blogg, stream, kanal, konto, app, tidning, spel, spelfilm, dokumentär eller annat om tecknade serier. Pris till ansvarig.
 
-**### Årets person**
+### Årets person
 
 En person som utmärkt sig under året eller borde prisas för sin samlade gärning. Kan vara en serieskapare, läsare, textare, redaktör, formgivare, journalist eller recensent, alltså precis vilken seriemänniska som helst. Pris till personen.
 
-**### Årets förlag**
+### Årets förlag
 
 Det svenska förlag som under året mest utmärkt sig med sin utgivning eller på annat sätt. Pris till ansvarig.
 
-**### Årets handlare**
+### Årets handlare
 
 Svensk butik eller person. Kan vara såväl fysisk butik eller butik på nätet. Kan också vara en person som har en butik, eller som handlar med serier på plattformar som Tradera. Pris till ansvarig.
 
-**### Årets händelse**
+### Årets händelse
 
 Mässa, nyhetshändelse, event, fest, kampanj, fenomen, utställning, skandal eller vad som helst. Pris till lämplig representant.

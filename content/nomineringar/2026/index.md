@@ -1,18 +1,18 @@
 ---
 title: "Nomineringar 2026"
-date: 2026-08-29
-draft: false
----
 
+date: 2026-08-29
+
+draft: false
 ---
 
 ![](/img/og-default-2026.png)
 
-**## Nomineringar till Seriefolkets stora pris 2026**
+## Nomineringar till Seriefolkets stora pris 2026
 
 Alla kommer själva kunna lägga till nomineringar när omröstningarna drar igång, men här är lite ihopsamlade grundnomineringar så vi undviker dubbel-nomineringar, har något att utgå ifrån och har ett ställe att dokumentera nomineringarna på. Om du undrar hur kategorierna definieras och avgränsas kan du läsa mer under [Kategorier](/kategorier). Om du vill få en bra överblick över den svenska utgivningen i år, kolla på [Sekvenser/utgivningar](https://serieutgivning.sekvenser.se)
 
-**### Årets svenska seriebok**
+### Årets svenska seriebok
 
 <!-- - 🏆 _Vinnande Titel_ av Namn Namnsson. [➜](#) -->
 
@@ -34,11 +34,11 @@ Alla kommer själva kunna lägga till nomineringar när omröstningarna drar ig�
 
 - _Johan smakar på livet_ av Johan Wanloo. [➜](https://www.adlibris.com/sv/bok/johan-smakar-pa-livet-9789177755661)
 
-**### Årets översatta seriebok**
+### Årets översatta seriebok
 
 - _Titel titel_ av Namn Namnsson. [➜](#)
 
-**### Årets klassikerutgivning**
+### Årets klassikerutgåva
 
 - _I slutet av regnbågen_ av Bitte Andersson. [➜](https://www.adlibris.com/sv/bok/i-slutet-av-regnbagen-9789170897375)
 
@@ -52,39 +52,39 @@ Alla kommer själva kunna lägga till nomineringar när omröstningarna drar ig�
 
 - _Lars Mortimers magiska värld_ av Lars Mortimer. [➜](https://www.adlibris.com/sv/bok/lars-mortimers-magiska-varld-9789181290493)
 
-**### Årets antologi**
+### Årets antologi
 
 - _Titel._ [➜](#)
 
-**### Årets egenutgivna seriebok**
+### Årets egenutgivna seriebok
 
 - _Titel titel_ av Namn Namnsson. [➜](#)
 
-**### Årets barnserie**
+### Årets barnserie
 
 - _Serietecknarklubben_ av Raina Telgemeier och Scott McCloud. [➜](https://www.adlibris.com/sv/bok/serietecknarklubben-9789175154855)
 
-**### Årets svenska serietidning**
+### Årets svenska serietidning
 
 <!-- - _Tidningstitel._ [➜](#) -->
 
-**### Årets serie i tidning**
+### Årets serie i tidning
 
 - _Titel titel_ av Namn Namnsson. [➜](#)
 
-**### Årets webbserie**
+### Årets webbserie
 
 - _Titel titel_ av Namn Namnsson. [➜](#)
 
-**### Årets fanzin**
+### Årets fanzin
 
 - _Titel titel_ av Namn Namnsson. [➜](#)
 
-**### Årets utländska serieutgåva**
+### Årets utländska serieutgåva
 
 <!-- - _Titel titel_ av Namn Namnsson. [➜](#) -->
 
-**### Årets publikation om tecknade serier**
+### Årets publikation om tecknade serier
 
 - _Gen zerier – tolv tecknare 2016-2026_ av Ola Hellsten. [➜](https://www.bokus.com/bok/9789187243486/gen-zerier-tolv-tecknare-2016-2026)
 
@@ -98,22 +98,18 @@ Alla kommer själva kunna lägga till nomineringar när omröstningarna drar ig�
 
 - _Scandinavian Comics and Comics Research – Contexts, Politics and Practices_ av Gunnar Krantz, Magnus Nilsson, Oskar Aspman och Tina-Marie Whitman. [➜](https://www.akademibokhandeln.se/bok/scandinavian-comics-and-comics-research/9783111131948)
 
-**### Årets person**
+### Årets person
 
 <!-- - **Malin Biller.** [➜](#) -->
 
-**### Årets händelse**
-
-- **Händelse.** [➜](#)
-
-**### Årets förlag**
+### Årets förlag
 
 - **Förlag.** [➜](#)
 
-**### Årets antologi**
-
-- _Titel._ [➜](#)
-
-**### Årets handlare**
+### Årets handlare
 
 - **Butik.** [➜](#)
+
+### Årets händelse
+
+- **Händelse.** [➜](#)
