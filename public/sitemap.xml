@@ -4,15 +4,19 @@
 
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-08-28T00:00:00+00:00</lastmod>
+    <lastmod>2026-08-29T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/kategorier/</loc>
+    <lastmod>2026-08-29T00:00:00+00:00</lastmod>
   </url>
   <url>
     <loc>http://localhost:1313/nomineringar/2026/</loc>
-    <lastmod>2026-08-28T00:00:00+00:00</lastmod>
+    <lastmod>2026-08-29T00:00:00+00:00</lastmod>
   </url>
   <url>
     <loc>http://localhost:1313/nomineringar/</loc>
-    <lastmod>2026-08-28T00:00:00+00:00</lastmod>
+    <lastmod>2026-08-29T00:00:00+00:00</lastmod>
   </url>
   <url>
     <loc>http://localhost:1313/lankar/</loc>
@@ -36,10 +40,6 @@
   </url>
   <url>
     <loc>http://localhost:1313/fragor/</loc>
-    <lastmod>2025-11-28T00:00:00+00:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/kategorier/</loc>
     <lastmod>2025-11-28T00:00:00+00:00</lastmod>
   </url>
   <url>
