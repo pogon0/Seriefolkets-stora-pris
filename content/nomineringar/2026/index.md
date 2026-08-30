@@ -18,6 +18,8 @@ Alla kommer själva kunna lägga till nomineringar när omröstningarna drar ig�
 
 <!-- - _Titel titel_ av Namn Namnsson. [➜](#) -->
 
+- _Historier om Malmö_ av Lars Krantz och Pål Brunnström. [➜](https://www.adlibris.com/sv/bok/historier-om-malmo-9789187875731)
+
 - _En dag i juli_ av Malin Biller. [➜](https://www.adlibris.com/sv/bok/en-dag-i-juli-9789198413748)
 
 - _Hunger_ av Siri Lidbeck. [➜](https://www.adlibris.com/sv/bok/hunger-9789189924444)
