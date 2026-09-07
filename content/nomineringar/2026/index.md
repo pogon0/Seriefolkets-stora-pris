@@ -16,6 +16,8 @@ Alla kommer själva kunna lägga till nomineringar när omröstningarna drar ig�
 
 <!-- - 🏆 _Vinnande Titel_ av Namn Namnsson. [➜](#) -->
 
+- _Årets by_ av Hilda Westerberg. [➜](https://www.adlibris.com/sv/bok/arets-by-9789189924451)
+
 - _Historier om Malmö_ av Lars Krantz och Pål Brunnström. [➜](https://www.adlibris.com/sv/bok/historier-om-malmo-9789187875731)
 
 - _En dag i juli_ av Malin Biller. [➜](https://www.adlibris.com/sv/bok/en-dag-i-juli-9789198413748)
@@ -30,7 +32,7 @@ Alla kommer själva kunna lägga till nomineringar när omröstningarna drar ig�
 
 - _Lord All Smitey_ av Cecilia Vårhed. [➜](https://www.adlibris.com/sv/bok/lord-all-smitey-9789177755654)
 
-- _Not forever_ av Mats Jonnsson. [➜](https://www.adlibris.com/sv/bok/not-forever-9789177755678)
+- _Not forever_ av Mats Jonsson. [➜](https://www.adlibris.com/sv/bok/not-forever-9789177755678)
 
 - _Johan smakar på livet_ av Johan Wanloo. [➜](https://www.adlibris.com/sv/bok/johan-smakar-pa-livet-9789177755661)
 
@@ -112,6 +114,8 @@ Alla kommer själva kunna lägga till nomineringar när omröstningarna drar ig�
 ### Årets person
 
 - **Janne Lundström.** [➜](https://seriewikin.serieframjandet.se/index.php/Janne_Lundström)
+
+- **Ola Hellsten.** [➜](https://seriewikin.serieframjandet.se/index.php/Ola_Hellsten)
 
 ### Årets förlag
 
