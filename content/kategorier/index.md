@@ -28,9 +28,9 @@ Klassikerutgivning är gamla serier i nya böcker. Det kan var nyutgåvor av bö
 
 Årets svenska serieantologi i bokform, ej tidning. Pris till utgivaren.
 
-### Årets egenutgivna seriebok
+### Årets small press eller egenutgivna seriebok
 
-Om det är den huvudsakliga upphovspersonen som gjort och gett ut boken är den egenutgiven. Den här kategorin diskvalificerar inte boken till att bli nominerad i kategorin Årets svenska seriebok. En bok har oftast ett rikare omfång, rygg och hårdare pärmar. Pris till utgivaren.
+Om det är den huvudsakliga upphovspersonen som gjort och gett ut boken är den egenutgiven. Med small press avses ett mycket litet förlag, drivet av en person eller ett fåtal personer och med få utgåvor i små upplagor. Den här kategorin diskvalificerar inte boken till att bli nominerad i kategorin Årets svenska seriebok. En bok har oftast ett rikare omfång, rygg och hårdare pärmar. Pris till utgivaren.
 
 ### Årets barnserie
 

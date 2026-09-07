@@ -16,8 +16,6 @@ Alla kommer själva kunna lägga till nomineringar när omröstningarna drar ig�
 
 <!-- - 🏆 _Vinnande Titel_ av Namn Namnsson. [➜](#) -->
 
-<!-- - _Titel titel_ av Namn Namnsson. [➜](#) -->
-
 - _Historier om Malmö_ av Lars Krantz och Pål Brunnström. [➜](https://www.adlibris.com/sv/bok/historier-om-malmo-9789187875731)
 
 - _En dag i juli_ av Malin Biller. [➜](https://www.adlibris.com/sv/bok/en-dag-i-juli-9789198413748)
@@ -58,9 +56,10 @@ Alla kommer själva kunna lägga till nomineringar när omröstningarna drar ig�
 
 - _Titel._ [➜](#)
 
-### Årets egenutgivna seriebok
+### Årets small press eller egenutgivna seriebok
 
-- _Titel titel_ av Namn Namnsson. [➜](#)
+- _Två noll fem_ av Mikael Hammarberg. [➜](https://www.instagram.com/p/DYhcDPPCCQo/?hl=sv&img_index=1)
+- _Ingen kan se dig, Eepej!_ av Jan Hoff. [➜](https://www.homemadecomics.org/butik/ingen-kan-se-dig-eepej-2026)
 
 ### Årets barnserie
 
@@ -68,15 +67,25 @@ Alla kommer själva kunna lägga till nomineringar när omröstningarna drar ig�
 
 ### Årets svenska serietidning
 
-<!-- - _Tidningstitel._ [➜](#) -->
+- _Marvels Universum._ [➜](https://www.seriekallaren.se/seriealbum-seriebocker/ades-media/marvels-universum/marvels-universum-2025-nr-1-ny-tidning)
+- _Galago._ [➜](https://www.galago.se/prenumerera/)
+- _Herman Hedning._ [➜](https://www.hermanhedning.com)
+- _Fantomen._ [➜](https://dintidning.se/fantomen)
+- _Pondus._ [➜](https://dintidning.se/pondus)
+- _Agent X9._ [➜](https://dintidning.se/agent-x9/)
 
 ### Årets serie i tidning
 
-- _Titel titel_ av Namn Namnsson. [➜](#)
+- _Lilla Berlin_ av Ellen Ekman. [➜](https://www.dn.se/serier/lilla-berlin/#serie)
+- _Gökboet_ av Hanna Strömberg. [➜](https://bulls.se/bulls/gokboet/)
+- _Rit Lucassi_ av Elin Lucassi. [➜](https://www.etc.se/serier/varfoer-firar-ni-inte)
 
 ### Årets webbserie
 
-- _Titel titel_ av Namn Namnsson. [➜](#)
+- _Gökboet_ av Hanna Strömberg. [➜](https://www.instagram.com/seriengokboet/)
+- _Greb Comics_ av Greb. [➜](https://www.instagram.com/grebcomics/)
+- _Rit Lucassi_ av Elin Lucassi. [➜](https://www.instagram.com/rit_lucassi/)
+- _Feltänkt_ av Yvette Gustafsson. [➜](https://www.instagram.com/feltankt/)
 
 ### Årets fanzin
 
@@ -102,7 +111,7 @@ Alla kommer själva kunna lägga till nomineringar när omröstningarna drar ig�
 
 ### Årets person
 
-<!-- - **Malin Biller.** [➜](#) -->
+- **Janne Lundström.** [➜](https://seriewikin.serieframjandet.se/index.php/Janne_Lundström)
 
 ### Årets förlag
 
