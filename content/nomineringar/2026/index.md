@@ -16,6 +16,8 @@ Alla kommer själva kunna lägga till nomineringar när omröstningarna drar ig�
 
 <!-- - 🏆 _Vinnande Titel_ av Namn Namnsson. [➜](#) -->
 
+- _Till kropp och själ – fritt fall i förskolan_ av Fia Lien. [➜](https://www.adlibris.com/sv/bok/till-kropp-och-sjal-fritt-fall-i-forskolan-9789190035511)
+
 - _Årets by_ av Hilda Westerberg. [➜](https://www.adlibris.com/sv/bok/arets-by-9789189924451)
 
 - _Historier om Malmö_ av Lars Krantz och Pål Brunnström. [➜](https://www.adlibris.com/sv/bok/historier-om-malmo-9789187875731)
