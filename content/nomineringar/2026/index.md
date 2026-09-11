@@ -40,9 +40,11 @@ Alla kommer själva kunna lägga till nomineringar när omröstningarna drar ig�
 
 ### Årets översatta seriebok
 
-- _Titel titel_ av Namn Namnsson. [➜](#)
+<!-- - _Titel titel_ av Namn Namnsson. [➜](#) -->
 
 ### Årets klassikerutgåva
+
+- _Johan Vilde – Den kompletta samlingen_ av Janne Lundström och Jaime Vallvé. [➜](https://shop.apartforlag.se/johan-vilde-den-kompletta-samlingen)
 
 - _I slutet av regnbågen_ av Bitte Andersson. [➜](https://www.adlibris.com/sv/bok/i-slutet-av-regnbagen-9789170897375)
 
@@ -50,15 +52,12 @@ Alla kommer själva kunna lägga till nomineringar när omröstningarna drar ig�
 
 - _Dotty Virvelvind – flickan som gör vad hon vill!_ av Sture Lönnerstrand (1919–1999), Björn Karlström (1921–2006) och Lennart Ek (1916–1991). [➜](https://www.adlibris.com/sv/bok/dotty-virvelvind-flickan-som-gor-vad-hon-vill-9789198866377)
 
-<!-- - _Titel titel_ av Namn Namnsson. [➜](#)
-
-- _Titel titel_ av Namn Namnsson. [➜](#) -->
-
 - _Lars Mortimers magiska värld_ av Lars Mortimer. [➜](https://www.adlibris.com/sv/bok/lars-mortimers-magiska-varld-9789181290493)
 
 ### Årets antologi
 
-- _Titel._ [➜](#)
+- _Medlefors Serieantologi 2026._ [➜](#)
+- _Home Made Comics 20._ [➜](https://www.homemadecomics.org/butik/home-made-comics-20)
 
 ### Årets small press eller egenutgivna seriebok
 
@@ -93,7 +92,7 @@ Alla kommer själva kunna lägga till nomineringar när omröstningarna drar ig�
 
 ### Årets fanzin
 
-- _Titel titel_ av Namn Namnsson. [➜](#)
+<!-- - _Titel titel_ av Namn Namnsson. [➜](#) -->
 
 ### Årets utländska serieutgåva
 
@@ -121,12 +120,12 @@ Alla kommer själva kunna lägga till nomineringar när omröstningarna drar ig�
 
 ### Årets förlag
 
-- **Förlag.** [➜](#)
+<!-- - **Förlag.** [➜](#) -->
 
 ### Årets handlare
 
-- **Butik.** [➜](#)
+<!-- - **Butik.** [➜](#) -->
 
 ### Årets händelse
 
-- **Händelse.** [➜](#)
+<!-- - **Händelse.** [➜](#) -->
