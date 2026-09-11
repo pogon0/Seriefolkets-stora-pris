@@ -128,4 +128,8 @@ Alla kommer själva kunna lägga till nomineringar när omröstningarna drar ig�
 
 ### Årets händelse
 
+- **Lena Furbergs utställning på Teckningsmuseet slår publikrekord** [➜](https://teckningsmuseet.se/utstallningar/aktuella-utstallningar/lena-furberg)
+- **Liv Strömkvist tilldelas fransk riddarorden** [➜](https://www.norstedts.se/liv-stromquist-tilldelas-ordre-des-arts-et-des-lettres)
+- **Fantomen på besök i Malmö** i äventyret _Fantomen – spionernas hamn_ av Mats Kejonen och Janusz Ordon. [➜](https://www.mynewsdesk.com/se/egmont-publishing/pressreleases/fantomen-fyller-90-firas-med-retroaeventyr-i-malmoe-3460694)
+
 <!-- - **Händelse.** [➜](#) -->
