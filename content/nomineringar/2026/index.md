@@ -76,6 +76,7 @@ Alla kommer själva kunna lägga till nomineringar när omröstningarna drar ig�
 - _Fantomen._ [➜](https://dintidning.se/fantomen)
 - _Pondus._ [➜](https://dintidning.se/pondus)
 - _Agent X9._ [➜](https://dintidning.se/agent-x9/)
+- _MAL Magasin._ [➜](https://malmagasin.com/)
 
 ### Årets serie i tidning
 
@@ -89,6 +90,7 @@ Alla kommer själva kunna lägga till nomineringar när omröstningarna drar ig�
 - _Greb Comics_ av Greb. [➜](https://www.instagram.com/grebcomics/)
 - _Rit Lucassi_ av Elin Lucassi. [➜](https://www.instagram.com/rit_lucassi/)
 - _Feltänkt_ av Yvette Gustafsson. [➜](https://www.instagram.com/feltankt/)
+- _Juliaserier_ av Julia Hansson. [➜](https://www.instagram.com/juliaserier/)
 
 ### Årets fanzin
 
@@ -115,8 +117,9 @@ Alla kommer själva kunna lägga till nomineringar när omröstningarna drar ig�
 ### Årets person
 
 - **Janne Lundström.** [➜](https://seriewikin.serieframjandet.se/index.php/Janne_Lundström)
-
 - **Ola Hellsten.** [➜](https://seriewikin.serieframjandet.se/index.php/Ola_Hellsten)
+- **Ulf Mårtensson.** [➜]()
+- **Lena Furberg.** [➜](https://seriewikin.serieframjandet.se/index.php/Lena_Furberg)
 
 ### Årets förlag
 
@@ -124,7 +127,7 @@ Alla kommer själva kunna lägga till nomineringar när omröstningarna drar ig�
 
 ### Årets handlare
 
-<!-- - **Butik.** [➜](#) -->
+- **Ronny Stenbäck, Seriemagasinet.** [➜](https://seriemagasinet.se/om/)
 
 ### Årets händelse
 
